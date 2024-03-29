@@ -494,10 +494,10 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallb
 
 
 #EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.ibb.co/N1M7s5b/1bca2bab-c1e1-498a-abee-b65c73b41d02.png" group-title="Sports",Live Cricket HD
-http://prod-sports-south-cf.jiocinema.com/hls/live/2109700/hd_akamai_androidmob_avc_odia_ipl_s1_m1270324/master.m3u8
+http://prod-sports-south-cf.jiocinema.com/hls/live/2109700/hd_akamai_androidmob_avc_odia_ipl_s1_m1290324/master.m3u8
 
 #EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.ibb.co/KNMsf9K/Picsart-24-03-27-20-26-24-926.png" group-title="Sports",Multi Angle HD
-https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1270324/master.m3u8
+https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1290324/master.m3u8
 
 #EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
