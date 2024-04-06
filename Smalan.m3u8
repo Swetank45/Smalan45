@@ -563,7 +563,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extensi
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
 #EXTINF:-1 tvg-id="foxsports501.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/VNtX4V6/In-Shot-20240304-113658955.png" group-title="Sports", Fox Sports 501 HD
-http://mytv-extra.com/live/t12mgxyb335/9832948789/355747.m3u8
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:42:AF:80&stream=196712&extension=ts&play_token=uv54Hb00Kz
 
 #EXTINF:-1 tvg-id="FoxLeague.au" ch-number="502" tvg-name="Fox League" tvg-logo="https://i.ibb.co/DGtpLnc/Picsart-24-03-08-15-22-51-877.png" group-title="Sports", Fox Sports 502 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544761.m3u8
