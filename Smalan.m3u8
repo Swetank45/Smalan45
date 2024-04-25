@@ -27,6 +27,9 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/K6SXyZf/35de26fd-f70e-42f7-8b7a-e3b5ec67a6fc.png" group-title="Entertainment",Shemaroo TV
+https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
+
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/tQJyq9z/3f0fef6f-7922-46bc-8e56-9e11787e5251.png" group-title="Entertainment",Shemaroo Umang Plus
 https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
@@ -52,6 +55,9 @@ https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+#EXTINF:-1 tvg-id="zeebollyworld.in" tvg-logo="https://i.ibb.co/hMgNPHK/Picsart-24-04-25-20-05-12-518.png" group-title="Hindi Movies",Zee Bollyworld
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YcFFYrx/1191464e-d73f-4277-985f-f61b6fbcd587.png" group-title="Hindi Movies",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -502,12 +508,12 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D1Wm04c/In-Shot-20240415-190206266.png" group-title="Sports",IPL 4K Ultra HD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1210424/master.m3u8
 
-#EXTINF:-1 tvg-id="usanetwork.us" group-title="Sports" ch-number="116" tvg-logo="https://i.ibb.co/mvdqcsm/Picsart-24-04-23-18-36-54-607.png",USA Network
+#EXTINF:-1 tvg-id="usanetwork.us" group-title="Sports" ch-number="116" tvg-logo="https://i.ibb.co/WtwZcqV/Picsart-24-04-23-18-52-54-773.png",Peacock | USA Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 tvg-id="peacockwwe.us" group-title="Sports" ch-number="116" tvg-logo="https://i.ibb.co/89PP2mY/Picsart-24-04-23-18-29-06-386.png",Peacock | WWE
+#EXTINF:-1 tvg-id="peacockwwe.us" group-title="Sports" ch-number="116" tvg-logo="https://i.ibb.co/TqZ7jHg/Picsart-24-04-23-18-51-58-814.png",Peacock | WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
