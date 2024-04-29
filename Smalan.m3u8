@@ -533,17 +533,33 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1 tvg-id="tntsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/CmZSstn/Picsart-24-03-04-13-20-07-822.png", group-title="Sports", TNT Sports 1 FHD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30567&extension=m3u8&play_token=XiNAkhchOp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CmZSstn/Picsart-24-03-04-13-20-07-822.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="tntsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/0JwR404/Picsart-24-03-04-13-20-30-751.png", group-title="Sports", TNT Sports 2 FHD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30566&extension=m3u8&play_token=oME0ALnPcb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JwR404/Picsart-24-03-04-13-20-30-751.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="tntsports3.uk" ch-number="432" tvg-logo="https://i.ibb.co/JRHNxjc/Picsart-24-03-04-13-20-49-867.png", group-title="Sports", TNT Sports 3 FHD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30565&extension=m3u8&play_token=EzPpvv7a7y
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRHNxjc/Picsart-24-03-04-13-20-49-867.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="tntsports4.uk" ch-number="434" tvg-logo="https://i.ibb.co/Vmv3M1x/Picsart-24-03-04-13-21-14-759.png", group-title="Sports",TNT Sports 4 FHD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1019935&extension=m3u8&play_token=LYceHbR04P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vmv3M1x/Picsart-24-03-04-13-21-14-759.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/KhjzHj0/Picsart-24-03-07-21-29-12-746.png" group-title="Sports", Willow Cricket HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
