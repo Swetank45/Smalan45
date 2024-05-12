@@ -594,28 +594,28 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extensi
 #EXTINF:-0 tvg-id="SH4" tvg-name="GRANDSTAND" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="Sports",SuperSports Grandstand
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
-#EXTINF:-1 tvg-id="foxsports501.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20501.png" group-title="Sports", Fox Sports 501 HD
+#EXTINF:-1 tvg-id="53208" tvg-name="FOX CRICKET" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20501.png" group-title="Sports", Fox Sports 501 HD
 https://tinyurl.com/bdv2ceye
 
-#EXTINF:-1 tvg-id="FoxLeague.au" ch-number="502" tvg-name="Fox League" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20502.png" group-title="Sports", Fox Sports 502 HD
+#EXTINF:-1 tvg-id="53210" tvg-name="FOX LEAGUE" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20502.png" group-title="Sports", Fox Sports 502 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544761.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports503.au" ch-number="257" tvg-name="Fox Sports 503" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20503.png" group-title="Sports", Fox Sports 503 HD
+#EXTINF:-1 tvg-id="53211" tvg-name="Fox Sports 503" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20503.png" group-title="Sports", Fox Sports 503 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544760.m3u8
 
-#EXTINF:-1 tvg-id="FoxFooty.au" ch-number="504" tvg-name="Fox Footy" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20504.png" group-title="Sports", Fox Sports 504 HD
+#EXTINF:-1 tvg-id="53212" tvg-name="FOX FOOTY" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20504.png" group-title="Sports", Fox Sports 504 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544759.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports505.au" ch-number="505"" tvg-name="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20505.png" group-title="Sports", Fox Sports 505 HD
+#EXTINF:-1 tvg-id="53214" tvg-name="Fox Sports 505" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20505.png" group-title="Sports", Fox Sports 505 HD
 https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 tvg-id="FoxSports506.au" ch-number="506" tvg-name="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506.png" group-title="Sports", Fox Sports 506 HD
+#EXTINF:-1 tvg-id="53215" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506.png" group-title="Sports", Fox Sports 506 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544757.m3u8
 
-#EXTINF:-1 tvg-id="FoxSportsMorePlus.au" ch-number="507" tvg-name="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507.png" group-title="Sports", Fox Sports 507
+#EXTINF:-1 tvg-id="53216" tvg-name="Fox Sports 507" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507.png" group-title="Sports", Fox Sports 507
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544756.m3u8
 
-#EXTINF:-1 tvg-id="FoxSportsNews.au" ch-number="500" tvg-name="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News.png" group-title="Sports", Fox Sports News
+#EXTINF:-1 tvg-id="53217" tvg-name="Fox Sports News" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News.png" group-title="Sports", Fox Sports News
 http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/544749.m3u8
 
 #EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19162459-6l4cdhhnoojtrvez.png" group-title="Sports", Sky Sport Select
