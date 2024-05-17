@@ -145,13 +145,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SagaMusicHaryanvi.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Saga%20Music%20Haryanvi.png" group-title="Music",Saga Music Haryanvi
-https://d35j504z0x2vu2.cloudfront.net/bpk-tv/saga-music-haryanvi/default/index.m3u8
+https://dai.google.com/linear/hls/event/ds6g99GqT5-97BIIMssFdA/master.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Zoom"  tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zoom%20HD.png" group-title="Music",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MusicIndia.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Music%20India.png" group-title="Music",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bhakti%20Play.png" group-title="Music",Bhakti Play
+https://dai.google.com/linear/hls/event/ci1QKpipTxy8aCTi4tBPzg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Ghaint%20Punjab.png" group-title="Music",Ghaint Punjab
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-ghaintpunjab-xiaomi/playlist.m3u8
@@ -161,6 +164,9 @@ https://amg01412-xiaomiasia-9xm-xiaomi-n1yqt.amagi.tv/playlist/amg01412-xiaomias
 
 #EXTINF:-1 tvg-id="39" tvg-name="9XJalwa" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/9x%20Jalwa.png" group-title="Music",9X Jalwa
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="224" tvg-name="E24" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/E-24.png" group-title="Music",E24
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 
 
 ################### English Movies & Series ###############################
@@ -360,6 +366,9 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="LoveNature4K" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Love%20Nature%204K.png" group-title="Documentaries",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="Global Trekker" group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Global%20Trekker%20HD.png" ch-number="551",551 Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
@@ -516,7 +525,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Toonami.png" group-title="Animes & Kids",Toonami HD
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
-#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" group-title="Animes & Kids" tvg-name="Crunchyroll" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png", Crunchyroll
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" group-title="Animes & Kids" tvg-name="Crunchyroll" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Crunchyroll.png", Crunchyroll
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
@@ -529,13 +538,11 @@ http://prod-sports-south-cf.jiocinema.com/hls/live/2109700/hd_akamai_androidmob_
 #EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.ibb.co/THVPW6R/Picsart-24-04-15-19-07-19-616.jpg" group-title="Sports",IPL Insider HD
 https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Sports%2024×7.png" group-title="Sports",Jio Sports 24×7
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1210424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Cricket%2024%C3%977.png" group-title="Sports",Jio Cricket 24×7
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Peacock%20-%20USA.png",Peacock | USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Sports%2024×7.png" group-title="Sports",Jio Sports 24×7
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Peacock%20-%20WWE.png",Peacock | WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -628,25 +635,25 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extensi
 https://tinyurl.com/bdv2ceye
 
 #EXTINF:-1 tvg-id="53210" tvg-name="FOX LEAGUE" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20502%20HD.png" group-title="Sports",Fox Sports 502 HD
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544761.m3u8
+https://tinyurl.com/mw7a6aea
 
 #EXTINF:-1 tvg-id="53211" tvg-name="Fox Sports 503" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20503%20HD.png" group-title="Sports",Fox Sports 503 HD
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544760.m3u8
+https://tinyurl.com/2cx6v9w6
 
 #EXTINF:-1 tvg-id="53212" tvg-name="FOX FOOTY" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20504%20HD.png" group-title="Sports",Fox Sports 504 HD
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544759.m3u8
+https://tinyurl.com/bwj9fyb4
 
 #EXTINF:-1 tvg-id="53214" tvg-name="Fox Sports 505" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20505%20HD.png" group-title="Sports",Fox Sports 505 HD
-https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://tinyurl.com/3p97rsnb
 
 #EXTINF:-1 tvg-id="53215" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506%20HD.png" group-title="Sports",Fox Sports 506 HD
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544757.m3u8
+https://tinyurl.com/2v94kwmj
 
 #EXTINF:-1 tvg-id="53216" tvg-name="Fox Sports 507" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507%20HD.png" group-title="Sports",Fox Sports 507
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544756.m3u8
+https://tinyurl.com/36tzut74
 
 #EXTINF:-1 tvg-id="53217" tvg-name="Fox Sports News" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News%20HD.png" group-title="Sports",Fox Sports News
-http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/544749.m3u8
+https://tinyurl.com/y9syvku7
 
 #EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sport%20Select.png" group-title="Sports", Sky Sport Select
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560112.m3u8
@@ -753,6 +760,33 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="BollywoodMashup.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Mashup.png" group-title="Radio",Bollywood Mashup
+https://stream-154.zeno.fm/uq5bgfxh3edtv
+
+#EXTINF:-1 tvg-id="BollywoodMonsterMashup.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Monster%20Mashup.png" group-title="Radio",Bollywood Monster Mashup
+https://stream-176.zeno.fm/gw2opbpqoprvv
+
+#EXTINF:-1 tvg-id="HindiMashup.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hindi%20Mashup.png" group-title="Radio",Hindi Mashup
+https://stream-176.zeno.fm/d3gvpnrp2nhvv
+
+#EXTINF:-1 tvg-id="BollywoodLofi.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Lofi.png" group-title="Radio",Bollywood Lofi
+https://stream-176.zeno.fm/d3gvpnrp2nhvv
+
+#EXTINF:-1 tvg-id="Lofi Beats.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Lofi%20Beats.png" group-title="Radio",Lofi Beats
+https://stream-153.zeno.fm/qmddw1nc6ehvv
+
+#EXTINF:-1 tvg-id="LofiChillMix.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Lofi%20Chill%20Mix.png" group-title="Radio",Lofi Chill Mix
+https://stream-176.zeno.fm/bqa04exah0hvv
+
+#EXTINF:-1 tvg-id="Lofi Soul.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Lofi%20Soul.png" group-title="Radio",Lofi Soul
+https://stream-171.zeno.fm/gt1bvwoot9dvv
+
+#EXTINF:-1 tvg-id="Night Out Lofi.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Night%20Out%20Lofi.png" group-title="Radio",Night Out Lofi
+https://stream-172.zeno.fm/x36whrqfsv8uv
+
+#EXTINF:-1 tvg-id="MTVAsia.com" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MTV%20Asia.jpg" group-title="Radio",MTV Asia
+https://stream-155.zeno.fm/undku6cbpkhvv
 
 #EXTINF:-1 tvg-id="DanceMachine" tvg-logo="https://i.ibb.co/23T3nHP/755aeb74-d1b7-4d9a-a97e-3804570ec641.png" group-title="Radio",Dance Machine
 https://edm.streeemer.com/listen/edm/radio.aac
