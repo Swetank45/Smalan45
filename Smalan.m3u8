@@ -242,11 +242,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 ch-number="713" tvg-id="ParamountNetwork" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Paramount%20Network.png",713 Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
-
 #EXTINF:-1 tvg-id="ts32" tvg-name="SonyPix" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Pix%20HD.png",SONY PIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
@@ -532,12 +527,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc8800088353
 ###################################### Sports #####################################################################
 
 
-#EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.ibb.co/N1M7s5b/1bca2bab-c1e1-498a-abee-b65c73b41d02.png" group-title="Sports",Sports HD 15
-http://prod-sports-south-cf.jiocinema.com/hls/live/2109700/hd_akamai_androidmob_avc_odia_ipl_s1_m1210424/master.m3u8
-
-#EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.ibb.co/THVPW6R/Picsart-24-04-15-19-07-19-616.jpg" group-title="Sports",IPL Insider HD
-https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Cricket%2024%C3%977.png" group-title="Sports",Jio Cricket 24×7
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
@@ -736,27 +725,27 @@ https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 ************************************RADIO*********************************************************
 
 
-#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",852 HITZ FM
+#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hitz%20FM.png" group-title="Radio",852 HITZ FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
-#EXTINF:-1 tvg-id="LITE" tvg-name="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="Radio",854 LITE FM
+#EXTINF:-1 tvg-id="LITE" tvg-name="LITE" ch-number="854" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Lite%20FM.png" group-title="Radio",854 LITE FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
 
-#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio",860 CLASSIC ROCK
+#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Syok%20Rock.png" group-title="Radio",860 CLASSIC ROCK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oGTVj6SdZ2FLBSq5qSo3XA", "kid":"dDd/nep1RTmU9/b17bCOEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
 
-#EXTINF:-1 tvg-id="INDIA" tvg-name="INDIA" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio",864 INDIA BEAT
+#EXTINF:-1 tvg-id="INDIA" tvg-name="INDIA" ch-number="864" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Syok%20India%20Beat.png" group-title="Radio",864 INDIA BEAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
-#EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" ch-number="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio",865 JAZZ
+#EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" ch-number="865" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Syok%20Jazz.png" group-title="Radio",865 JAZZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
@@ -788,155 +777,164 @@ https://stream-172.zeno.fm/x36whrqfsv8uv
 #EXTINF:-1 tvg-id="MTVAsia.com" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MTV%20Asia.jpg" group-title="Radio",MTV Asia
 https://stream-155.zeno.fm/undku6cbpkhvv
 
-#EXTINF:-1 tvg-id="DanceMachine" tvg-logo="https://i.ibb.co/23T3nHP/755aeb74-d1b7-4d9a-a97e-3804570ec641.png" group-title="Radio",Dance Machine
+#EXTINF:-1 tvg-id="RadioApna" tvg-logo="https://i.pinimg.com/originals/5b/e3/b4/5be3b4f7e4dcc6dc3c27b2bf90bce0a0.png" group-title="Radio",Radio Apna 
+https://ais-nzme.streamguys1.com/nz_145_aac
+
+#EXTINF:-1 tvg-id="Talksport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdCHyA0S16VDi4vEmhEdtLPh3Mn_yvNZnkywdlsZhfoR1wLVXdztpR1oc&s=10" group-title="Radio",Talksport 2
+https://radio.talksport.com/stream2
+
+#EXTINF:-1 tvg-id="BBCRadio5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_Radio_5_Live.svg/1200px-BBC_Radio_5_Live.svg.png" group-title="Radio",BBC Radio 5
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="DanceMachine" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Dance%20Machine.png" group-title="Radio",Dance Machine
 https://edm.streeemer.com/listen/edm/radio.aac
 
-#EXTINF:-1 tvg-id="HouseNation.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpE1UouFJFrcF4wjtRkGoh3TKt_t6BeO5-Dg&usqp=CAU" group-title="Radio",House Nation UK
+#EXTINF:-1 tvg-id="HouseNation.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/House%20Nation%20UK.png" group-title="Radio",House Nation UK
 https://streaming.radio.co/s06bd9d805/listen
 
-#EXTINF:-1 tvg-id="Dancerevolution.uk" tvg-logo="https://i.ibb.co/5RbMGtS/f8ed080f-b457-4962-a545-cbecd11210d2.png" group-title="Radio",Dance Revolution
+#EXTINF:-1 tvg-id="Dancerevolution.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Dance%20Revolution.png" group-title="Radio",Dance Revolution
 https://s5.radio.co/s89dcf578d/listen
 
-#EXTINF:-1 tvg-id="POPHits" tvg-logo="https://i.ibb.co/nkBgvg3/5ab38d38-e5f8-4d78-beab-0b03d2e4546d.png" group-title="Radio",POP Hits UK
+#EXTINF:-1 tvg-id="POPHits" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Pop%20Hits.png" group-title="Radio",POP Hits UK
 https://n06.rcs.revma.com/avg9pfvpxwuvv?rj-ttl=5&rj-tok=AAABjX0jgUAARM8O1FtW7-pglA
 
-#EXTINF:-1 tvg-id="DanceHits.uk" tvg-logo="https://i.ibb.co/qMm77Ts/82cbb30d-4e66-4a14-a413-a6f4702aaf31.png" group-title="Radio",Dance Hits UK
+#EXTINF:-1 tvg-id="DanceHits.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Dance%20Hits.png" group-title="Radio",Dance Hits UK
 https://n06.rcs.revma.com/vd0vzdx5q2uvv?rj-ttl=5&rj-tok=AAABjX0lw1EAEir-AUR9_jps4Q
 
-#EXTINF:-1 tvg-id="Chilledhits.uk" tvg-logo="https://i.ibb.co/x5XHkfW/4f533fec-d649-4ec5-95f9-eb88f68d49da.png" group-title="Radio",Chilled Hits UK
+#EXTINF:-1 tvg-id="Chilledhits.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Chilled%20Hits.png" group-title="Radio",Chilled Hits UK
 https://n10.rcs.revma.com/urxzbqd6q2uvv?rj-ttl=5&rj-tok=AAABjX069nQAikxfRRNgTIoFMw
 
-#EXTINF:-1 tvg-id="TotalHits" tvg-logo="https://i.ibb.co/6yv7rpM/68b4cc93-4e2f-41f8-8199-656638f63486.png" group-title="Radio",Total Hits UK
+#EXTINF:-1 tvg-id="TotalHits" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Total%20Hits.png" group-title="Radio",Total Hits UK
 https://n07.rcs.revma.com/xw5tq4k6kzuvv?rj-ttl=5&rj-tok=AAABjX0_BbQAziLjEgK0qDPIjQ
 
-#EXTINF:-1 tvg-id="FreshHits" tvg-logo="https://i.ibb.co/n1PPNgL/ab06b2ae-9958-421b-9b2e-cf2641c62989.png" group-title="Radio",Fresh Hits UK
+#EXTINF:-1 tvg-id="FreshHits" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fresh%20Hits.png" group-title="Radio",Fresh Hits UK
 https://ice1.streeemer.com:8030/radio.aac
 
-#EXTINF:-1 tvg-id="energyfm.co.uk" tvg-logo="https://i.ibb.co/80tv8ct/438e6d02-6276-43c6-a8bf-f441ee48e261.png" group-title="Radio",Energy FM EDM
+#EXTINF:-1 tvg-id="energyfm.co.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Energy%20FM.png" group-title="Radio",Energy FM EDM
 https://radio.streemlion.com:2365/stream
 
-#EXTINF:-1 tvg-id="HotHits.uk" tvg-logo="https://i.ibb.co/n7kxXHq/b9a21e96-c268-4bb2-b8b9-f88ac78c22f9.png" group-title="Radio",Hot Hits UK
+#EXTINF:-1 tvg-id="HotHits.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hot%20Hits.png" group-title="Radio",Hot Hits UK
 https://443-1.autopo.st/54/stream.mp3
 
-#EXTINF:-1 tvg-id="BritAsia.uk" tvg-logo="https://i.ibb.co/fYzLNK6/41e11994-e5d0-43f2-a1e5-dbcbe9c59880.png" group-title="Radio",BritAsia Radio
+#EXTINF:-1 tvg-id="BritAsia.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Brit%20Asia%20Radio.png" group-title="Radio",BritAsia Radio
 https://s4.radio.co/sfefce156f/listen
 
-#EXTINF:-1 tvg-id="RapMixx" tvg-logo="https://i.ibb.co/8X3xTKw/68c6aad4-0d96-4529-9de9-12083bfafce1.png" group-title="Radio",Hip Hop Mix US
+#EXTINF:-1 tvg-id="RapMixx" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/HipHop%20Mix.png" group-title="Radio",Hip Hop Mix US
 http://ais-sa2.cdnstream1.com/1988_64.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1362079274900062209/_UKKk1MJ_400x400.png" group-title="Radio",EDM Sessions
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/EDM%20Sessions.png" group-title="Radio",EDM Sessions
 https://s2.radio.co/s30844a0f4/listen
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hybJ1K8/Picsart-24-02-07-17-40-58-366.png" group-title="Radio",Sportify Dance WorkOut
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sportify%20Dance.png" group-title="Radio",Sportify Dance WorkOut
 https://drive.uber.radio/uber/sportifypop/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tcjvz0y/Picsart-24-02-07-17-42-43-485.png" group-title="Radio",Sportify Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sportify%20Bollywood.png" group-title="Radio",Sportify Bollywood WorkOut
 https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0MwMTQH/Picsart-24-02-07-17-43-04-557.png" group-title="Radio",Sportify Trending Workout
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sportify%20Trending.png" group-title="Radio",Sportify Trending Workout
 https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5k3mNQ0/76f41652-87b6-43b4-9a20-f3988ede0ebc.png" group-title="Radio",Pulse FM Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Pulse%20FM.png" group-title="Radio",Pulse FM Australia
 http://dabstream.pulsefm.com.au/au_tas_7T47_pulsefm
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/More_FM_logo.png" group-title="Radio",More FM NZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/More%20FM.png" group-title="Radio",More FM NZ
 https://digitalstreams3.mediaworks.nz/more-IVC-high?Dist=TuneIn
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="Radio",All India Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/AIR%20Aakashvani.png" group-title="Radio",AIR AakashVani
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
 
-#EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://i.ibb.co/PTzHTzn/24dc0c00-2311-463d-b7ab-ec0cf34f37ab.png" group-title="Radio",AIR Vividh Bharti
+#EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/AIR%20Vividha%20Bharti.png" group-title="Radio",AIR Vividh Bharti
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GoldFM" tvg-logo="https://i.ibb.co/Jzz5mH0/25768b70-edde-4e41-87a4-d59f5b321dd0.png" group-title="Radio",AIR Gold FM
+#EXTINF:-1 tvg-id="GoldFM" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/AIR%20FM%20Gold.png" group-title="Radio",AIR Gold FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VYDcMkD/a257d7f8-65ad-443d-b5a9-097e8c4f360c.png" group-title="Radio",AIR FM Rainbow
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/AIR%20FM%20Rainbow.png" group-title="Radio",AIR FM Rainbow
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DDQVqmr/bfdb4a3b-1e87-48ff-b4de-fc7a94dd4355.png" group-title="Radio",Sangeet Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sangeet%20Radio.png" group-title="Radio",Sangeet Radio
 https://ice8.securenetsystems.net/SGTRADIO
 
-#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://i.ibb.co/R39hrZT/f0e70c52-be7c-4875-97b7-76302af5ff0b.png" group-title="Radio",Radio Mirchi
+#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20Mirchi.png" group-title="Radio",Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcgDZL4/6465e5e5-1914-4a36-a5c0-f451f9a4ea31.png" group-title="Radio",Radio Mirchi One
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20Mirchi%20One.png" group-title="Radio",Radio Mirchi One
 https://streams.radio.co/s8d06d0298/listen
 
-#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="https://static.toiimg.com/thumb/msid-92585845,width-400,resizemode-4/92585845.jpg" group-title="Radio",Radio Mirchi Plus
+#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20Mirchi%20Plus.png" group-title="Radio",Radio Mirchi Plus
 https://s3.radio.co/se787a5a6f/listen
 
-#EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="https://i.ibb.co/vjqVfm9/1192d555-fc6d-4021-99fc-58bfa22d9ef1.png" group-title="Radio",Mirchi Top 20
+#EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Mirchi%20Top%2020.png" group-title="Radio",Mirchi Top 20
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.toiimg.com/photo/msid-57752295/57752295.jpg" group-title="Radio",Mirchi Love
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Mirchi%20Love.png" group-title="Radio",Mirchi Love
 https://drive.uber.radio/uber/lrbollywood/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HgtW1YM/c0387a84-7ee0-4c80-bec9-6bf81e321020.png" group-title="Radio",Fever FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fever%20FM.png" group-title="Radio",Fever FM
 https://radio.canstream.co.uk:8115/live.mp3
 
-#EXTINF:-1 tvg-id="KishoreKumarHits" tvg-logo="https://i.ibb.co/gjVxsWc/46a100cc-b224-4bc7-b3a9-038dbe165236.png" group-title="Radio",Kishore Kumar Hits
+#EXTINF:-1 tvg-id="KishoreKumarHits" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Kishore%20Kumar%20Hits.png" group-title="Radio",Kishore Kumar Hits
 https://stream-142.zeno.fm/0ghtfp8ztm0uv?zs=xYlPcGchQCS0KiW9XMLLQg
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tJNKNcj/674a7924-4e93-461b-958f-9ddb4d23fa64.png" group-title="Radio",Lata Mangeshkar Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Lata%20Mangeshkar%20Hits.png" group-title="Radio",Lata Mangeshkar Hits
 https://stream-162.zeno.fm/87xam8pf7tzuv?zs=h9G-pwdkROiD__zflE2T0g
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q94t8Fs/c116f29a-d6a1-4aea-ab66-e4da2514cf33.png" group-title="Radio",Mukesh Kumar Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Mukesh%20Kumar%20Hits.png" group-title="Radio",Mukesh Kumar Hits
 https://stream-149.zeno.fm/mrcz5sus1p8uv?zs=RfbxBToqSFOswyHJMFw1ag
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcPYKFF/d6e5b119-1547-4f04-8d94-9c07394df1a8.png" group-title="Radio",Mohammed Rafi Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Mohammed%20Rafi%20Hits.png" group-title="Radio",Mohammed Rafi Hits
 https://stream-149.zeno.fm/2xx62x8ztm0uv?zs=bztETwcqT12_g4Cfz1q9ZA
 
-#EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="https://i.ibb.co/YjyjNNR/9082ec2d-67ac-4785-b8ff-980cde4e7a17.png" group-title="Radio",Classic Hits
+#EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Classic%20Hits.png" group-title="Radio",Classic Hits
 http://stream-155.zeno.fm/m38h4nmgxs8uv?zs=E-NTB8loT6KswI5jajvfTg
 
-#EXTINF:-1 tvg-id="Bollywoodgaanepurane" tvg-logo="https://i.ibb.co/q1dh0gY/2cd64796-6964-4f24-a56a-7f03f01dfdc7.png" group-title="Radio", Bollywood Gaane Purane
+#EXTINF:-1 tvg-id="Bollywoodgaanepurane" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Gaane%20Puraane.png" group-title="Radio", Bollywood Gaane Purane
 https://stream-142.zeno.fm/6n6ewddtad0uv?zs=BczodFXbQvGXe2OKP2Eu5Q
 
-#EXTINF:-1 tvg-id="BigFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="Radio",Big FM
+#EXTINF:-1 tvg-id="BigFM" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Big%20FM.png" group-title="Radio",Big FM
 http://sc-bb.1.fm:8017/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VvDKwMK/55b72fdf-040a-46bd-bfaa-c07164ec1bdc.png" group-title="Radio",Bollywood Radio & Beyond
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20%26%20Beyond.png" group-title="Radio",Bollywood Radio & Beyond
 https://s6.yesstreaming.net/proxy/john1237?mp=/live
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://companieslogo.com/img/orig/RADIOCITY.NS-42ad2e24.png?t=1604870869" group-title="Radio",Radio City
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20City.png" group-title="Radio",Radio City
 https://prclive1.listenon.in/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yRKQz7Y/203f62fb-4641-4580-b063-a24d67107252.png" group-title="Radio",Bollywood Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Mix.png" group-title="Radio",Bollywood Mix
 https://stream.beyondradio.co.uk/radio/8000/high
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qDC0sLx/21d24912-6480-4cfb-89c3-fff498687d45.png" group-title="Radio",New Hits of Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/New%20Hits%20Of%20Bollywood.png" group-title="Radio",New Hits of Bollywood
 https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZM8nYwq/11fa5df8-020a-4d9c-bf54-ffe96e60009e.png" group-title="Radio",Bollywood Super Cool Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Super%20Cool%20Hits.png" group-title="Radio",Bollywood Super Cool Hits
 https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSY5DkK/1dec500b-083d-434e-8c4e-40124b961803.png" group-title="Radio",Love Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Love%20Radio.png" group-title="Radio",Love Radio
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" group-title="Radio", Bollywood Dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Dance.png" group-title="Radio", Bollywood Dance
 https://drive.uber.radio/uber/bollywooddance/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jJxcqpb/In-Shot-20240207-082118065.png" group-title="Radio",Bollywood Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Now.png" group-title="Radio",Bollywood Now
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vs5181D/1a2810d0-6036-4256-82a7-593b2ccc6a1d.png" group-title="Radio", Bollywood Party
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Party.png" group-title="Radio", Bollywood Party
 https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 
-#EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="https://i.ibb.co/xHZ58Dy/0eb2d0a5-8871-469c-894c-a006aec04f0f.png" group-title="Radio",My Radio
+#EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MY%20Radio.png" group-title="Radio",My Radio
 http://stream-157.zeno.fm/84h97t3ewg0uv?zs=w7yH3nNlSKSc7KxnPVtbEA
 
-#EXTINF:-1 tvg-id="RadioEvergreen" tvg-logo="https://i.ibb.co/WKkFxZW/f45f2338-ad0d-422d-bf62-c74b2582ee9e.png" group-title="Radio",Goldy Evergreen
+#EXTINF:-1 tvg-id="RadioEvergreen" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Goldy%20Evergreen.png" group-title="Radio",Goldy Evergreen
 https://stream-141.zeno.fm/n2fd0edh9k8uv?zs=VTa0ZVsNQjuAxAQpfT0dig
 
-#EXTINF:-1 tvg-id="RadioAashiqana" tvg-logo="https://i.ibb.co/9qNwpX5/f0efdc43-fa10-45be-baba-0fcc1013404d.png" group-title="Radio",Radio Aashiqana
+#EXTINF:-1 tvg-id="RadioAashiqana" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20Ashiqana.png" group-title="Radio",Radio Aashiqana
 https://sonic.onlineaudience.co.uk/8114/stream
 
-#EXTINF:-1 tvg-id="BollyHitsRadio" tvg-logo="https://i.ibb.co/6XnnHt0/3517b2e3-e7f3-42b1-84e0-71ab1d286e71.png" group-title="Radio",Bolly Hits Radio
+#EXTINF:-1 tvg-id="BollyHitsRadio" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/BollyHits%20Radio.png" group-title="Radio",Bolly Hits Radio
 https://stream-145.zeno.fm/ut3kgm1vsa0uv?zs=bIqEKNSrQkOlhLEhKklTRg
 
-#EXTINF:-1 tvg-id="BollywoodPunjabi" tvg-logo="https://i.ibb.co/s68RbL6/f9caeb4a-757a-4ee1-8753-584f5b382a87.png" group-title="Radio",Bollywood Punjabi Radio
+#EXTINF:-1 tvg-id="BollywoodPunjabi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Punjabi%20Radio.png" group-title="Radio",Bollywood Punjabi Radio
 https://stream-159.zeno.fm/1k0y9f0cm0quv?zs=dr4GhI3bQ8illUYacthS9g
 
-#EXTINF:-1 tvg-id="PunjabRocks" tvg-logo="https://i.ibb.co/92CPKLf/d3912ae4-e8a2-4e16-8248-2dedd9bc2480.png" group-title="Radio",Radio Punjab Rocks
+#EXTINF:-1 tvg-id="PunjabRocks" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Radio%20Punjab%20Rocks.png" group-title="Radio",Radio Punjab Rocks
 http://radio.punjabrocks.com:9988/punjab
