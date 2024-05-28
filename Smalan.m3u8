@@ -44,7 +44,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Kal.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20World.png" group-title="Entertainment",Zee World HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20World%20HD.png" group-title="Entertainment",Zee World HD
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
 
@@ -56,7 +56,7 @@ https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
-#EXTINF:-1 tvg-id="zeebollyworld.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20Bollyworld.png" group-title="Hindi Movies",Zee Bollyworld
+#EXTINF:-1 tvg-id="Zee.BollyWorld.distro" tvg-name="Zee BollyWorld" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20Bollyworld%20HDTV.png" group-title="Hindi Movies",Zee Bollyworld
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
 #EXTINF:-1 tvg-id="INBD21000016Y" tvg-name="The Movie Club" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/The%20Movie%20Club.png" group-title="Hindi Movies",The Movie Club
@@ -74,10 +74,10 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/i
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Shemaroo%20Bollywood.png" group-title="Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bollywood Classic.ro" tvg-name="Bollywood Classic.ro" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Classic%20Bollywood%20RO.png" group-title="Hindi Movies",Classic Bollywood HD
+#EXTINF:-1 tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Classic%20Bollywood%20RO.png" group-title="Hindi Movies", Bollywood Classic HD
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 
-#EXTINF:-1 tvg-id="Bollywood TV.ro" tvg-name="Bollywood TV.ro" tvg-name="Bollywood HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20RO.png" group-title="Hindi Movies",Bollywood HD
+#EXTINF:-1 tvg-id="Bollywood.HD.distro" tvg-name="Bollywood HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20RO.png" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Max%20HD.png" group-title="Hindi Movies",Sony Max HD
@@ -89,8 +89,8 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Wah%20HD.png" group-title="Hindi Movies",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
-#EXTINF:-1 tvg-id="ts267" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/%26%20Pictures%20HD.png" group-title="Hindi Movies", & Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:-1 tvg-id="And.Pictures.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/%26%20Pictures%20HD.png" group-title="Hindi Movies", & Pictures HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oEM1GkVlNIpABa5qgOeeDQ","kid":"j7UuFgchOyynkZni7lo3Qw"}],"type":"temporary"}
@@ -112,7 +112,7 @@ https://livea.streamready.in/stargold2/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="37" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/StarGold%20Select%20HD.png",Star Gold Select HD
 https://livea.streamready.in/stargoldselecthd/smil:common.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Prime.png" group-title="Entertainment",Bollywood Prime
+#EXTINF:-1 tvg-id="Bollywood.Prime.distro" tvg-name="Bollywood Prime" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Bollywood%20Prime.png" group-title="Entertainment",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 #EXTINF:-1 tvg-id="INBD4800001IR" tvg-name="South Station" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/South%20Station%20HD.png" group-title="Entertainment",South Station
@@ -129,22 +129,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 #EXTINF:-1 tvg-id="ts405" group-title="Music" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MTV%20BEATS.png",MTV Beats HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Clubbing%20TV.png" group-title="Music",Clubbing TV
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Clubbing%20TV.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Shemaroo FimiGaane" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Shemaroo%20FilmiGaane.png" group-title="Music",Shemaroo FilmiGaane
 https://dai.google.com/linear/hls/event/GoIv9LpoTcWbRvzufQCQTQ/master.m3u8
 
-#EXTINF:-1 tvg-id="jio1192" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Brit-Asia%20TV.png" group-title="Music",Brit-Asia Tv
+#EXTINF:-1 tvg-id="BritAsiaTV.distro" tvg-name="BritAsia TV" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Brit-Asia%20TV.png" group-title="Music",Brit-Asia Tv
 https://dai.google.com/linear/hls/event/6AOKpRvMQYCIWxvG9jUSQg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/YRF%20Music.png" group-title="Music",YRF Music
+#EXTINF:-1 tvg-id="YRF.Music.distro" tvg-name="YRF Music" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/YRF%20Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Saga%20Music%20HD.png" group-title="Music",Saga Music HD
+#EXTINF:-1 tvg-id="Saga.Music.distro" tvg-name="Saga Music" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Saga%20Music%20HD.png" group-title="Music",Saga Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SagaMusicHaryanvi.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Saga%20Music%20Haryanvi.png" group-title="Music",Saga Music Haryanvi
+#EXTINF:-1 tvg-id="Saga.Music.Haryanvi.distro" tvg-name="Saga Music Haryanvi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Saga%20Music%20Haryanvi.png" group-title="Music",Saga Music Haryanvi
 https://dai.google.com/linear/hls/event/ds6g99GqT5-97BIIMssFdA/master.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Zoom"  tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zoom%20HD.png" group-title="Music",Zoom
@@ -250,6 +250,61 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/USA%20Network.png", USA Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+https://linear.stvacdn.spectrum.com/LIVE/1139/dash/cenc/USAHD_00234/manifest.mpd
+
+#EXTINF:-1 tvg-id="ROCK.Action.(HD).sg" tvg-name="Rock Action" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Rock%20Action.png", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+   
+#EXTINF:-1 tvg-id="ROCK.Entertainment.(HD).sg" tvg-name="Rock Entertainment" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Rock%20Entertainment.png", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+  
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/SYFY.png", SYFY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6f0313b542c403db100450122a25dce:b7c76618c5d877f6ced637eeab8112b1
+https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_58623_0_5302026933975814163.mpd
+
+#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="Hallmark Channel HDTV (East) (HALLHD)" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hallmark%20Channel.png", Hallmark Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
+
+#EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-name="Hallmark Movies and Mysteries HDTV (HMMHD)" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hallmark%20Mystery.png",Hallmark Mystery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00204fad3935b123c2bc3e1b47aa4511:a7c6f7bffe978bfaaf2cb986875c0711
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc132wswht)/master.mpd
+
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama HDTV (HALDRHD)" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Hallmark%20Family.png",Hallmark Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020103077f01f7343b03e497a636169:3c38d1ab5a1011bb1d0d96232ac0ed27
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc131pdfws)/master.mpd
+
+#EXTINF:-1 tvg-name="Sky.Action.uk" tvg-id="Sky Action" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Action.png" group-title="English Movies & Series", Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
+https://test.ddnetwork.workers.dev/index.mpd?kid=0009a340cc0a79210aac42485474d01f&ch=https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
+
+#EXTINF:-1 tvg-name="Sky.Family.HD.uk" tvg-id="Sky Family HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Family.png" group-title="English Movies & Series", Sky Cinema Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
+https://test.ddnetwork.workers.dev/index.mpd?kid=00092cba8f081f1f6711df263e0639a3&ch=https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd
+
+#EXTINF:-1 tvg-name="Sky.Cinema.Hits.HD.uk" tvg-id="Sky Cinema Hits HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Hits.png" group-title="English Movies & Series", Sky Cinema Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
+https://test.ddnetwork.workers.dev/index.mpd?kid=0009b55ec9440c27db869dd4efec5ff0&ch=https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd
+
+#EXTINF:-1 tvg-name="Sky.Atlantic.HD.uk" tvg-id="Sky Atlantic HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Atlantic.png" group-title="English Movies & Series", Sky Atlantic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
+https://test.ddnetwork.workers.dev/index.mpd?kid=000533bb655b97f89fef59db87f507ec&ch=https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd
+
 #EXTINF:-1 tvg-id="ts187" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Infinity%20HD.png" group-title="English Movies & Series",Colors Infinity HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 
@@ -274,7 +329,7 @@ https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/playlist/amg01412-xiao
 #EXTINF:-1 tvg-id="ts259" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20News.png" group-title="Hindi News",Zee News
 https://amg01412-xiaomiasia-zeenews-xiaomi-nkeug.amagi.tv/playlist/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts104" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/India%20TV.png" group-title="Hindi News",India TV
+#EXTINF:-1 tvg-id="ts104" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/India%20TV%20HD.png" group-title="Hindi News",India TV
 https://amg01412-xiaomiasia-indiatv-xiaomi-uzmb0.amagi.tv/playlist/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="179" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/NDTV%20India.png" group-title="Hindi News",NDTV India
@@ -289,7 +344,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-sams
 #EXTINF:-1 tvg-id="106" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20India.png" group-title="Hindi News",News18 India
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="79" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20UP-UK.png" group-title="Hindi News",News18 UP/UK
+#EXTINF:-1 tvg-id="News18.Uttar.Pradesh.Uttarakhand.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20UP-UK.png" group-title="Hindi News",News18 UP/UK
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
 
 
@@ -351,7 +406,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
-#EXTINF:-1 tvg-id="206" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/CNN%20News18.png" group-title="News",CNN News 18 HD
+#EXTINF:-1 tvg-id="CNN.News18.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/CNN%20News18.png" group-title="News",CNN News 18 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="72" tvg-name="REPUBLIC TV" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Republic%20TV.png" group-title="News", Republic TV
@@ -394,7 +449,7 @@ https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/TLC_HD.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/TRVL%20Channel.png" group-title="Documentaries",TRVL Channel
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/TRVL_Channel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="4K Travel" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/4K%20Travel.png" group-title="Documentaries",4K Travel
+#EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-name="4K Travel" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/4K%20Travel.png" group-title="Documentaries",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WildEarth" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/WildEarth.png" group-title="Documentaries",Wild Earth
@@ -450,7 +505,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-#EXTINF:-1 ch-number="717" tvg-id="BBCLifestyle" group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/BBC%20Lifestyle.png",717 BBC Lifestyle
+#EXTINF:-1 ch-number="717" tvg-id="BBCLifestyle" group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/BBC%20Lifestyle%20HD.png",717 BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
@@ -507,14 +562,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
-#EXTINF:-1 tvg-id="Animax" group-title="Animes & Kids" tvg-logo="https://i.ibb.co/CBX9CyM/In-Shot-20240119-145825382.jpg",Animax HD
+#EXTINF:-1 tvg-id="INBD13000043W" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Animax.png" group-title="Animes & Kids",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animax.my" group-title="Animes & Kids" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Animax%20HD.png",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 ##https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 tvg-id="INBD13000043W" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Animes & Kids",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC36000073J" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKPoe_LlUjSD86zNgEkvonUpLSTTn0JHV7qs5N6RPnjkbNl9rvHZq4WdyUaBxoZuJW7BDWioAZ4LzFLj_GxQ3BqDkTV624TapDAFCB3h3FLSfQJUPcHKeHh9XVpcWnPkwKKf6ZflJ2VR1V8JXDokBv2i5yd3gkgCCW9la1vsFeVWH19D3dFAHSvKn3aA/s1920/InShot_20240120_062002898.jpg" group-title="Animes & Kids",Retro Crush HD
 https://amg01201-cinedigmenterta-retrocrush-tablo-jg47e.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-tablo/playlist.m3u8
@@ -559,16 +614,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc8800088353
 ###################################### Sports #####################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Cricket%2024%C3%977.png" group-title="Sports",Jio Cricket 24×7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Cricket.png" group-title="Sports",Jio Cricket
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Jio%20Sports%2024×7.png" group-title="Sports",Jio Sports 24×7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Sports.png" group-title="Sports",Jio Sports
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Peacock%20-%20WWE.png",Peacock | WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%201.png", Fox Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
+https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%202.png", Fox Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
+https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd     
+
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Soccer%20Plus.png", Fox Soccer Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
+https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd
 
 #EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/WWE%20Network.png",821 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -626,22 +696,43 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1141780&extens
 #EXTINF:-1 tvg-id="812" tvg-name="Eurosport HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Eurosport.png" group-title="Sports",Eurosport HD
 https://amg01448-samsungin-eurosportin-samsungin-r6thw.amagi.tv/playlist/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Action.png", group-title="Sports", Sky Sports Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
+https://test.ddnetwork.workers.dev/index.mpd?kid=0003d0fbdf31675b39ee3ea8b9f0ce68&ch=https://linear013-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd
+
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="SkySp Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Cricket.png" group-title="Sports", Sky Sports Cricket HD
-https://tinyurl.com/yx6ff3r4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
+https://test.ddnetwork.workers.dev/index.mpd?kid=00056d5c8882917a4463d5b42ba86c31&ch=https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Main%20Event.png", group-title="Sports",Sky Sports Main Event HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00034d0b4c47a219e93d880b4610d197:a5dcfa9627379c6928567092b6e5ce40
-https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
+https://test.ddnetwork.workers.dev/index.mpd?kid=00050559cd31897cd28ef1cad1857606&ch=https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720-120.mpd
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SkySp Mix HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Mix.png" group-title="Sports", Sky Sports Mix HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
-https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051d6cdd7231b7370dcf8eb66cf618:06f88d449edec6e4389950b0bda5cd68
+https://test.ddnetwork.workers.dev/index.mpd?kid=00051d6cdd7231b7370dcf8eb66cf618&ch=https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720-120.mpd
+
+#EXTINF:-1 tvg-id="ViaPlay.Sports.1.uk" tvg-name="ViaPlay Sports 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/ViaPlay%20Sports%201.png",ViaPlay Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+https://viaplay.xyssatuu.workers.dev/vp/vpsports1uk/vpsports1uk.isml/index.mpd
+
+#EXTINF:-1 tvg-id="Viaplay.Sports.2.uk" tvg-name="Viaplay Sports 2" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/ViaPlay%20Sports%202.png",ViaPlay Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+https://viaplay.xyssatuu.workers.dev/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
 #EXTINF:-1 tvg-id="HD7" tvg-name="ACTION" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/SuperSport%20Action.png" group-title="Sports",SuperSports Action
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=425668&extension=m3u8&play_token=AequulL4Cw
@@ -652,28 +743,28 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extensi
 #EXTINF:-0 tvg-id="SH4" tvg-name="GRANDSTAND" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/SuperSport%20Grandstand.png" group-title="Sports",SuperSports Grandstand
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
-#EXTINF:-1 tvg-id="53208" tvg-name="FOX CRICKET" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20501.png" group-title="Sports",Fox Sports 501 HD
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX CRICKET" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20501.png" group-title="Sports",Fox Sports 501 HD
 https://tinyurl.com/bdv2ceye
 
-#EXTINF:-1 tvg-id="53210" tvg-name="FOX LEAGUE" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20502%20HD.png" group-title="Sports",Fox Sports 502 HD
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX LEAGUE" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20502%20HD.png" group-title="Sports",Fox Sports 502 HD
 https://tinyurl.com/mw7a6aea
 
-#EXTINF:-1 tvg-id="53211" tvg-name="Fox Sports 503" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20503%20HD.png" group-title="Sports",Fox Sports 503 HD
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20503%20AU.png" group-title="Sports",Fox Sports 503 HD
 https://tinyurl.com/2cx6v9w6
 
-#EXTINF:-1 tvg-id="53212" tvg-name="FOX FOOTY" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20504%20HD.png" group-title="Sports",Fox Sports 504 HD
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX FOOTY" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20504%20HD.png" group-title="Sports",Fox Sports 504 HD
 https://tinyurl.com/bwj9fyb4
 
-#EXTINF:-1 tvg-id="53214" tvg-name="Fox Sports 505" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20505%20HD.png" group-title="Sports",Fox Sports 505 HD
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20505%20AU.png" group-title="Sports",Fox Sports 505 HD
 https://tinyurl.com/3p97rsnb
 
-#EXTINF:-1 tvg-id="53215" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506%20HD.png" group-title="Sports",Fox Sports 506 HD
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506%20AU.png" group-title="Sports",Fox Sports 506 HD
 https://tinyurl.com/2v94kwmj
 
-#EXTINF:-1 tvg-id="53216" tvg-name="Fox Sports 507" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507%20HD.png" group-title="Sports",Fox Sports 507
+#EXTINF:-1 tvg-id="FoxSportsMorePlus.au" tvg-name="Fox Sports 507" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507%20HD.png" group-title="Sports",Fox Sports 507
 https://tinyurl.com/36tzut74
 
-#EXTINF:-1 tvg-id="53217" tvg-name="Fox Sports News" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News%20HD.png" group-title="Sports",Fox Sports News
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-name="Fox Sports News" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News%20HD.png" group-title="Sports",Fox Sports News
 https://tinyurl.com/y9syvku7
 
 #EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sport%20Select.png" group-title="Sports", Sky Sport Select
@@ -705,6 +796,11 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=246
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
 #EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=24
+
+#EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Sports%202.png", group-title="Sports", Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79b340b2b5f7c3c89951daabde7cdf97:3e22bc39d22a7f8c3516f6b58b144668
+https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
