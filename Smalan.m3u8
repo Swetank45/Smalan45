@@ -323,6 +323,9 @@ https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ts689" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-hd-in.png" group-title="Hindi News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
+#EXTINF:-1 tvg-id="278" tvg-name=Good News Today"" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/GNT%20News.png" group-title="Hindi News",Good News Today
+https://feeds.intoday.in/gnt/api/master.m3u8
+
 #EXTINF:-1 tvg-id="ts177" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/ABP%20News.png" group-title="Hindi News",ABP News
 https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/playlist/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 
@@ -346,6 +349,12 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/i
 
 #EXTINF:-1 tvg-id="News18.Uttar.Pradesh.Uttarakhand.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20UP-UK.png" group-title="Hindi News",News18 UP/UK
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="209" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News%2024.png" group-title="Hindi News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="322" tvg-name="DD News" tvg-logo="" group-title="Hindi News",DD News
+https://yt.denverisalive69.workers.dev/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
 
 #################################################### News ########################################
