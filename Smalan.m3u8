@@ -309,7 +309,7 @@ https://tinyurl.com/4hbck8xm
 #################################################### Hindi News ########################################
 
 
-#EXTINF:-1 tvg-id="ts689" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-hd-in.png" group-title="Hindi News",Aaj Tak HD
+#EXTINF:-1 tvg-id="ts689" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Aaj%20Tak.png" group-title="Hindi News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="278" tvg-name=Good News Today"" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/GNT%20News.png" group-title="Hindi News",Good News Today
@@ -595,6 +595,11 @@ https://tinyurl.com/ywx77d6y
 
 #EXTINF:-1 tvg-id="238" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/CN%20Hindi.png" group-title="Animes & Kids", Cartoon Network Hindi
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anime Local" tvg-name="Anime Local" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Anime%20Local.png",Tata Play | Anime Local
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1363
+https://play.denver1769.in/tp.mpd?id=1363
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Discovery%20Kids.png" group-title="Animes & Kids",Discovery Kids
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Discovery_Kids.m3u8
