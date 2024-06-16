@@ -2,9 +2,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="" group-title="Join Telegram @bigcchubchat" tvg-logo="https://i.ibb.co/wMphKmm/photo-2024-06-02-19-10-48.jpg" ,@bigcchubchat
-https://t.me/bigcchubchat
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=246
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://i.postimg.cc/Nfz7CWJp/image.jpg" group-title="Cricket",Star Sports Select 1
