@@ -660,6 +660,10 @@ https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/ICC%20TV.png",ICC TV
 https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
 
+#EXTINF:-1 tvg-id="Star4k.in" tvg-name="Star 4K" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%204K.png",Star 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/j.php?tv=18855
+
 #EXTINF:-1 ch-number="814" tvg-id="814 SuperSport 4" tvg-name="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",SuperSport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
@@ -769,7 +773,7 @@ https://tinyurl.com/3p97rsnb
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20506%20AU.png" group-title="Sports",Fox Sports 506 HD
 https://tinyurl.com/2v94kwmj
 
-#EXTINF:-1 tvg-id="FoxSportsMorePlus.au" tvg-name="Fox Sports 507" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507%20HD.png" group-title="Sports",Fox Sports 507
+#EXTINF:-1 tvg-id="FoxSportsMorePlus.au" tvg-name="Fox Sports More+" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20507%20HD.png" group-title="Sports",Fox Sports 507
 https://tinyurl.com/36tzut74
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-name="Fox Sports News" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Fox%20Sports%20News%20HD.png" group-title="Sports",Fox Sports News
@@ -790,35 +794,45 @@ https://tinyurl.com/3ufv2af5
 #EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sport%204.png" group-title="Sports", Sky Sport 4
 https://tinyurl.com/5n8nv8cm
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=78
 #EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20HD.png" group-title="Sports",Star Sports 1 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://tp.denver1769.workers.dev/tplay/78.mpd
+#EXTVLCOPT:http-user-agent=@bigcchubchat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78
+https://mpd-v1.bigcric.site/api/78.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=235
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Sports%202.png" group-title="Sports",Star Sports 2 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://tp.denver1769.workers.dev/tplay/235.mpd
+#EXTVLCOPT:http-user-agent=@bigcchubchat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235
+https://mpd-v1.bigcric.site/api/235.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=24
 #EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Sports",Star Sports 1 Hindi HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://tp.denver1769.workers.dev/tplay/24.mpd
+#EXTVLCOPT:http-user-agent=@bigcchubchat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=24
+https://mpd-v1.bigcric.site/api/24.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=246
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%201%20HD.png" group-title="Sports",Star Sports Select 1 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://tp.denver1769.workers.dev/tplay/246.mpd
+#EXTVLCOPT:http-user-agent=@bigcchubchat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246
+https://mpd-v1.bigcric.site/api/246.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=463
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%202%20HD.png" group-title="Sports",Star Sports Select 2 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://tp.denver1769.workers.dev/tplay/463.mpd
+#EXTVLCOPT:http-user-agent=@bigcchubchat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463
+https://mpd-v1.bigcric.site/api/463.mpd
 
 #EXTINF:-1 tvg-id="1033" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png", Sports 18 - 1 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
