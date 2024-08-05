@@ -53,6 +53,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Kal.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="63" tvg-name="Zee TV HD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20TV%20HD.png",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="&tv HD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/And%20TV%20HD.png",& TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-name="Zee Anmol" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20Anmol.png",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20World%20HD.png" group-title="Entertainment",Zee World HD
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
@@ -67,6 +76,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 #EXTINF:-1 tvg-id="64" tvg-name="Zee Anmol Cinema" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20Anmol%20Cinema.png" group-title="Hindi Movies", Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/dish1.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Zee Action" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20Action.png",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
 #EXTINF:-1 tvg-id="175" tvg-name="Zee Bollywood" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20Bollywood.png" group-title="Hindi Movies", Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/dish1.m3u8
@@ -111,7 +123,7 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="And.Pictures.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/%26%20Pictures%20HD.png" group-title="Hindi Movies", & Pictures HD
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-id="7" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Gold%20HD.png",Star Gold HD
 https://tinyurl.com/ma6nsd9n
@@ -163,6 +175,9 @@ https://dai.google.com/linear/hls/event/ds6g99GqT5-97BIIMssFdA/master.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Zoom"  tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zoom%20HD.png" group-title="Music",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-name="Zing" group-title="Music" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zing.png",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MusicIndia.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Music%20India.png" group-title="Music",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -266,9 +281,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #EXTINF:-1 tvg-id="ts32" tvg-name="SonyPix" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Pix%20HD.png",SONY PIX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="ROCK.Action.(HD).sg" tvg-name="Rock Action" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Rock%20Action.png", Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -630,20 +643,33 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/i
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Sports.png" group-title="Sports",Jio Sports
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Peacock%20-%20USA.png",Peacock | USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Peacock%20-%20WWE.png",Peacock | WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 ch-number="821" tvg-id="WWENetwork" tvg-name="821 WWE Network" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/WWE%20Network.png",WWE Network
+#EXTINF:-1 ch-number="821" tvg-id="WWENetwork" tvg-name="821 WWE Network" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Astro%20WWE.png",Astro | WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/WWE%20Network.png" group-title="Sports", WWE Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
+https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
 #EXTINF:-1 ch-number="824" tvg-id="824 Astro Cricket" tvg-name="" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Astro%20Cricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/T20%20Eng.jpg",T20 World Cup Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
