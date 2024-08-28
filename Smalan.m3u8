@@ -62,6 +62,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-id="523" tvg-name="Zee Anmol" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Zee%20Anmol.png",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
+#EXTINF:-1 tvg-id="Sunneohd.in" tvg-name="Sun Neo HD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Sun%20Neo%20HD.png", Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20World%20HD.png" group-title="Entertainment",Zee World HD
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
@@ -540,6 +545,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
+
+#EXTINF:-1 tvg-id="616" tvg-name="History TV18 HD" group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/History%20TV18%20HD.png", History TV-18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="556 Animal Planet" group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Animal%20Planet.png" ch-number="556",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
