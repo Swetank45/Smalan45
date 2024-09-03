@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20HD.png" group-title="Entertainment",Colors HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ColorsHD.m3u8
 
 #EXTINF:-1 tvg-id="ColorsHD" tvg-name="116 Colors HD UK" group-title="Entertainment" ch-number="116" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20-%20HD%20UK.png",Colors HD UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,7 +24,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Rishtey.png" group-title="Entertainment",Colors Rishtey
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ColorsRishtey.m3u8
 
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Shemaroo%20TV.png" group-title="Entertainment",Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8?hdnts=st=1718176534~exp=1718187334~acl=*~data=testdata~hmac=9e0071e4a9736787007e0de8cc00df94c46d696294a171d6a6679e91df47b13e
@@ -44,11 +44,23 @@ https://epiconvh.s.llnwi.net/ishaara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Nazara.png" group-title="Entertainment",Nazara
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 
-#EXTINF:-1 tvg-id="9" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Plus%20HD.png",Star Plus HD
-https://tinyurl.com/2s2krmdt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TxgkDvZjKaPbc6cz5qeq8g", "kid": "RTgkKnwaTLibzxgMwX4AAA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id=9 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Plus%20HD.png",Star Plus HD
+https://pftv.me/live/1260000017/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WGgfl5r9XlUUplUvrQ9sig", "kid": "Pc7hA7-mRhqFy3mRqpIAAA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="244" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Bharat%20HD.png",Star Bharat HD
+https://pftv.me/live/1260000031/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3wGc3Igb1Ix50zv8Y7oixg", "kid": "EJNTJM5rTiihH5RVTZcAAA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="551" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Utsav.png",Star Utsav
+https://pftv.me/live/1260000020/index.mpd
 
 #EXTINF:-1 tvg-id="406" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MTV.png" group-title="Entertainment",MTV
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_MTVHD.m3u8
 
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Kal.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -95,13 +107,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Cineplex.png" group-title="Hindi Movies",Colors Cineplex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ColorsCineplexHD.m3u8
 
 #EXTINF:-1 tvg-id="ts1450" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Cineplex%20Superhit.png" group-title="Hindi Movies",Colors Cineplex Superhit
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_RishteyCineplex/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_RishteyCineplex.m3u8
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Cineplex%20Bollywood.png" group-title="Hindi Movies",Colors Cineplex Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ColorsCineplexBollywood.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Shemaroo%20Bollywood.png" group-title="Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -130,8 +142,10 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="And.Pictures.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/%26%20Pictures%20HD.png" group-title="Hindi Movies", & Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-#EXTINF:-1 tvg-id="7" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Gold%20HD.png",Star Gold HD
-https://tinyurl.com/ma6nsd9n
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Axu8xJlbox6jj6GNZvmt8Q", "kid": "4eLWTq9RTaiNvzQVGJEAAA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="7" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Gold%20HD.png",Star Gold HD
+https://pftv.me/live/1260000040/index.mpd
 
 #EXTINF:-1 tvg-id="28" group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Gold%202.png",Star Gold 2
 https://tinyurl.com/49p9fc5z
@@ -158,7 +172,7 @@ http://192.0.0.4:9999/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 tvg-id="ts405" group-title="Music" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/MTV%20BEATS.png",MTV Beats HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_MTVBeatsHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
@@ -285,7 +299,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 tvg-id="ts32" tvg-name="SonyPix" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Pix%20HD.png",SONY PIX
+#EXTINF:-1 tvg-id="ts32" tvg-name="SonyPix" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sony%20Pix%20HD.png",Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="ROCK.Action.(HD).sg" tvg-name="Rock Action" group-title="English Movies & Series" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Rock%20Action.png", Rock Action
@@ -319,10 +333,10 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc132wswht)/m
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc131pdfws)/master.mpd
 
 #EXTINF:-1 tvg-id="ts187" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Colors%20Infinity%20HD.png" group-title="English Movies & Series",Colors Infinity HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ColorsInfinityHD.m3u8
 
 #EXTINF:-1 tvg-id="ts307" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Comedy%20Central%20HD.png" group-title="English Movies & Series",Comedy Central HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_ComedyCentralHD.m3u8
 
 #EXTINF:-1 tvg-id="11" group-title="English Movies & Series"tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Movies%20Select%20HD.png",Star Movies Select HD
 https://tinyurl.com/4hbck8xm
@@ -356,10 +370,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindi
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20India.png" group-title="Hindi News",News18 India
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/News18_India_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="News18.Uttar.Pradesh.Uttarakhand.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News18%20UP-UK.png" group-title="Hindi News",News18 UP/UK
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/News18_UP_Uttarakhand_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="209" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/News%2024.png" group-title="Hindi News",News 24
 https://ythls-v3.onrender.com/channel/UCuzS3rPQAYqHcLWqOFuY0pw.m3u8?playlist=index
@@ -430,7 +444,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News18.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/CNN%20News18.png" group-title="News",CNN News 18 HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/CNN_News18_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="72" tvg-name="REPUBLIC TV" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Republic%20TV.png" group-title="News", Republic TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
@@ -610,7 +624,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 https://amg01201-cinedigmenterta-retrocrush-tablo-jg47e.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickHD+" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Nick%20HD%2B.png" group-title="Animes & Kids",Nick HD+
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_NickHD.m3u8
 
 #EXTINF:-1 tvg-id="239" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/POGO.png" group-title="Animes & Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -636,7 +650,7 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/SONIC.png" group-title="Animes & Kids",Sonic HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_SonicNick.m3u8
 
 #EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" group-title="Animes & Kids" tvg-name="Crunchyroll" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Crunchyroll.png", Crunchyroll
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -646,10 +660,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc8800088353
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Cricket.png" group-title="Sports",Jio Cricket
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JV_SportsHD15_DIG_MOB.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Sports.png" group-title="Sports",Jio Sports
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_Sports_24x7_IDC.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Peacock%20-%20USA.png",Peacock | USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -828,51 +842,36 @@ https://tinyurl.com/3ufv2af5
 #EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sport%204.png" group-title="Sports", Sky Sport 4
 https://tinyurl.com/5n8nv8cm
 
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20HD.png" group-title="Sports",Star Sports 1 HD
-#EXTVLCOPT:http-user-agent=@bigcchubchat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78
-https://mpd-v1.bigcric.site/api/78.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20HD.png",Star Sports 1 HD
+https://pftv.me/live/1260000035/index.mpd
 
-#EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Sports%202.png" group-title="Sports",Star Sports 2 HD
-#EXTVLCOPT:http-user-agent=@bigcchubchat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235
-https://mpd-v1.bigcric.site/api/235.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2 HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Star%20Sports%202.png",Star Sports 2 HD
+https://pftv.me/live/1260000033/index.mpd
 
-#EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Sports",Star Sports 1 Hindi HD
-#EXTVLCOPT:http-user-agent=@bigcchubchat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=24
-https://mpd-v1.bigcric.site/api/24.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%201%20Hindi%20HD.png",Star Sports 1 Hindi HD
+https://pftv.me/live/1260000025/index.mpd
 
-#EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%201%20HD.png" group-title="Sports",Star Sports Select 1 HD
-#EXTVLCOPT:http-user-agent=@bigcchubchat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246
-https://mpd-v1.bigcric.site/api/246.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%201%20HD.png",Star Sports Select 1 HD
+https://pftv.me/live/1260000034/index.mpd
 
-#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%202%20HD.png" group-title="Sports",Star Sports Select 2 HD
-#EXTVLCOPT:http-user-agent=@bigcchubchat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463
-https://mpd-v1.bigcric.site/api/463.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%202%20HD.png",Star Sports Select 2 HD
+https://pftv.me/live/1260000024/index.mpd
 
 #EXTINF:-1 tvg-id="1033" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png", Sports 18 - 1 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_Sports18_1HD.m3u8
 
 #EXTINF:-1 tvg-id="Sports18.Khel.in" tvg-name="Sports18 Khel" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18%20Khel.png", Sports 18 Khel
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/Sports18_Khel_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Ten%20Sports%20HD.png" group-title="Sports",Ten Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -889,7 +888,7 @@ https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=897
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/PTV%20Sports.png" group-title="Sports",PTV Sports
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
