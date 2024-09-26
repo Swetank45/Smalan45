@@ -1,2 +1,244 @@
-#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="vh1" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/VH1%20HD.png" group-title="sports",VH1 HD
-http://0.0.0.0:5001/live/1320.m3u8
+#EXTM3U x-tvg-url="http://14.102.123.50:5001/epg.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Zee%20TV%20HD.png" group-title="zee",Zee TV HD
+https://la.drmlive.au/tp/zee.php?id=tvhd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/And%20TV%20HD.png" group-title="zee",&tv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andtvhd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/%26%20Xplor%20HD.png" group-title="zee",&Xplor HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andxplorehd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/%26%20Pictures%20HD.png" group-title="zee",&pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andpictureshd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Zee%20Cinema%20HD.png" group-title="zee",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=cinemahd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andflixhd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="zee",Zee Zest HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=zesthd
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="zee",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=bigmagic
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/2880px-%26priv%C3%A9_HD.svg.png" group-title="zee",&prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=privehd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Zee%20Action.png" group-title="zee",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=action
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Zee%20Bollywood.png" group-title="zee",Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=bollywood
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Zee%20Anmol%20Cinema.png" group-title="zee",Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=anmolcinema
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=cafehd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Zee%20Anmol.png" group-title="zee",Zee Anmol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=anmol
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket FHD
+http://b1g.ooo:80/11176/11176/35799
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="Sports",Sky Sports Main Event
+http://b1g.ooo:80/11176/11176/35796
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="Sports",Sky Sports Mix
+http://b1g.ooo:80/11176/11176/35804
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="UK-TNT Sports 1 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="UK | TNT Sports",UK-TNT Sports 1 50FPS
+http://b1g.ooo:80/11176/11176/697057
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="UK-TNT Sports 2 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="UK | TNT Sports",UK-TNT Sports 2 50FPS
+http://b1g.ooo:80/11176/11176/697056
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="UK-TNT Sports 3 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="UK | TNT Sports",UK-TNT Sports 3 50FPS
+http://b1g.ooo:80/11176/11176/697055
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="Sports",TNT Sports 4 HEVC
+http://b1g.ooo:80/11176/11176/697051
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="AU - Fox Sports 501 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-501.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 501 FHD
+http://b1g.ooo:80/11176/11176/839344
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-name="AU - Fox Sports 502 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-502.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 502 FHD
+http://b1g.ooo:80/11176/11176/839343
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXSPORTS503.au" tvg-name="AU - Fox Sports 503 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-503.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 503 FHD
+http://b1g.ooo:80/11176/11176/839342
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFoxFooty.au" tvg-name="AU - Fox Sports 504 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-504.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 504 FHD
+http://b1g.ooo:80/11176/11176/839341
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXSPORTS505.au" tvg-name="AU - Fox Sports 505 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-505.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 505 FHD
+http://b1g.ooo:80/11176/11176/839340
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXSPORTS506.au" tvg-name="AU - Fox Sports 506 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-506.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 506 FHD
+http://b1g.ooo:80/11176/11176/839339
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXSPORTSMORE.au" tvg-name="AU - Fox Sports 507 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-507.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 507 FHD
+http://b1g.ooo:80/11176/11176/839338
+
+#EXTINF:-1 tvg-id=143 tvg-name="CNBC Tv18 Prime HD" tvg-logo="http://14.102.123.50:5001/jtvimage/CNBC_Tv18_Prime_HD.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC Tv18 Prime HD
+https://colorsscreen.com/live.php?id=143&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=146 tvg-name="History TV18 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
+https://colorsscreen.com/live.php?id=146&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=153 tvg-name="Zee Talkies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Talkies.png" tvg-language="Marathi" tvg-type="Movies" group-title="Movies", Zee Talkies
+https://colorsscreen.com/live.php?id=153&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
+https://colorsscreen.com/live.php?id=154&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=155 tvg-name="Sony Ten 5 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
+https://colorsscreen.com/live.php?id=155&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
+https://colorsscreen.com/live.php?id=162&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=164 tvg-name="Travelxp HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
+https://colorsscreen.com/live.php?id=164&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
+https://colorsscreen.com/live.php?id=165&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=166 tvg-name="Cartoon Network Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
+https://colorsscreen.com/live.php?id=166&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
+https://colorsscreen.com/live.php?id=167&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://14.102.123.50:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
+https://colorsscreen.com/live.php?id=173&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=175 tvg-name="Aastha" tvg-logo="http://14.102.123.50:5001/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
+https://colorsscreen.com/live.php?id=175&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://14.102.123.50:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
+https://colorsscreen.com/live.php?id=177&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=180 tvg-name="Asianet News" tvg-logo="http://14.102.123.50:5001/jtvimage/Asianet_News.png" tvg-language="Malayalam" tvg-type="News" group-title="News", Asianet News
+https://colorsscreen.com/live.php?id=180&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+https://colorsscreen.com/live.php?id=182&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://14.102.123.50:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD
+https://colorsscreen.com/live.php?id=185&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://14.102.123.50:5001/jtvimage/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
+https://colorsscreen.com/live.php?id=190&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=193 tvg-name="CNN" tvg-logo="http://14.102.123.50:5001/jtvimage/CNN.png" tvg-language="English" tvg-type="News" group-title="News", CNN
+https://colorsscreen.com/live.php?id=193&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", Colors Gujarati
+https://colorsscreen.com/live.php?id=196&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=198 tvg-name="Colors Oriya" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Oriya.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Colors Oriya
+https://colorsscreen.com/live.php?id=198&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=202 tvg-name="DD National" tvg-logo="http://14.102.123.50:5001/jtvimage/DD_National.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD National
+https://colorsscreen.com/live.php?id=202&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=203 tvg-name="DD News" tvg-logo="http://14.102.123.50:5001/jtvimage/DD_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DD News
+https://colorsscreen.com/live.php?id=203&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=204 tvg-name="DD Sports" tvg-logo="http://14.102.123.50:5001/jtvimage/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
+https://colorsscreen.com/live.php?id=204&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=212 tvg-name="ET Now" tvg-logo="http://14.102.123.50:5001/jtvimage/ET_Now.png" tvg-language="English" tvg-type="Business" group-title="Business", ET Now
+https://colorsscreen.com/live.php?id=212&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://14.102.123.50:5001/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
+https://colorsscreen.com/live.php?id=231&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=232 tvg-name="News18 Lokmat" tvg-logo="http://14.102.123.50:5001/jtvimage/IBN_Lokmat.png" tvg-language="Marathi" tvg-type="News" group-title="News", News18 Lokmat
+https://colorsscreen.com/live.php?id=232&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://14.102.123.50:5001/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
+https://colorsscreen.com/live.php?id=235&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery
+https://colorsscreen.com/live.php?id=242&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://14.102.123.50:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
+https://colorsscreen.com/live.php?id=248&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://14.102.123.50:5001/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+https://colorsscreen.com/live.php?id=250&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=252 tvg-name="ETV Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Cinema.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", ETV Cinema
+https://colorsscreen.com/live.php?id=252&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=255 tvg-name="NDTV 24x7" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_24x7.png" tvg-language="English" tvg-type="News" group-title="News", NDTV 24x7
+https://colorsscreen.com/live.php?id=255&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=258 tvg-name="NDTV India" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV India
+https://colorsscreen.com/live.php?id=258&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=259 tvg-name="NDTV Profit" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_Profit.png" tvg-language="English" tvg-type="Business" group-title="Business", NDTV Profit
+https://colorsscreen.com/live.php?id=259&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
+https://colorsscreen.com/live.php?id=279&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://14.102.123.50:5001/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
+https://colorsscreen.com/live.php?id=286&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://14.102.123.50:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
+https://colorsscreen.com/live.php?id=288&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=289 tvg-name="Sony Max SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
+https://colorsscreen.com/live.php?id=289&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=290 tvg-name="sonic Tamil" tvg-logo="http://14.102.123.50:5001/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", sonic Tamil
+https://colorsscreen.com/live.php?id=290&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+https://colorsscreen.com/live.php?id=291&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://14.102.123.50:5001/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
+https://colorsscreen.com/live.php?id=383&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
+https://colorsscreen.com/live.php?id=400&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=401 tvg-name="Swayam Prabha 19" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_19.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 19
+https://colorsscreen.com/live.php?id=401&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=402 tvg-name="PM e Vidya 02" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 02
+https://colorsscreen.com/live.php?id=402&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=403 tvg-name="Swayam Prabha 20" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_20.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 20
+https://colorsscreen.com/live.php?id=403&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=404 tvg-name="PM e Vidya 07" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 07
+https://colorsscreen.com/live.php?id=404&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=405 tvg-name="PM e Vidya 03" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_3.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 03
+https://colorsscreen.com/live.php?id=405&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=406 tvg-name="PM e Vidya 04" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_4.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 04
+https://colorsscreen.com/live.php?id=406&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=407 tvg-name="PM e Vidya 05" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_5.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 05
+https://colorsscreen.com/live.php?id=407&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=408 tvg-name="PM e Vidya 06" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_6.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 06
+https://colorsscreen.com/live.php?id=408&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=409 tvg-name="PM e Vidya 08" tvg-logo="http://14.102.123.50:5001/jtvimage/_evidya_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 08
+https://colorsscreen.com/live.php?id=409&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=410 tvg-name="PM e Vidya 09" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_9.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 09
+https://colorsscreen.com/live.php?id=410&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=411 tvg-name="PM e Vidya 10" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_10.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 10
+https://colorsscreen.com/live.php?id=411&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=412 tvg-name="Wion" tvg-logo="http://14.102.123.50:5001/jtvimage/Wion.png" tvg-language="English" tvg-type="News" group-title="News", Wion
+https://colorsscreen.com/live.php?id=412&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=413 tvg-name="Zee Cinemalu" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Zee Cinemalu
+https://colorsscreen.com/live.php?id=413&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=414 tvg-name="Zee Yuva" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Yuva.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Zee Yuva
+https://colorsscreen.com/live.php?id=414&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
+https://colorsscreen.com/live.php?id=415&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=417 tvg-name="J Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/J_Movies.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", J Movies
+https://colorsscreen.com/live.php?id=417&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=418 tvg-name="Jaya Plus" tvg-logo="http://14.102.123.50:5001/jtvimage/Jaya_Plus.png" tvg-language="Tamil" tvg-type="News" group-title="News", Jaya Plus
+https://colorsscreen.com/live.php?id=418&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=419 tvg-name="Jaya TV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Jaya_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Jaya TV HD
+https://colorsscreen.com/live.php?id=419&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=420 tvg-name="Jaya Max" tvg-logo="http://14.102.123.50:5001/jtvimage/Jaya_Max.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Jaya Max
+https://colorsscreen.com/live.php?id=420&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=421 tvg-name="GOA 365" tvg-logo="http://14.102.123.50:5001/jtvimage/Goa365.png" tvg-language="English" tvg-type="News" group-title="News", GOA 365
+https://colorsscreen.com/live.php?id=421&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=422 tvg-name="In Goa 24x7" tvg-logo="http://14.102.123.50:5001/jtvimage/InGoa24x7.png" tvg-language="Marathi" tvg-type="Infotainment" group-title="Infotainment", In Goa 24x7
+https://colorsscreen.com/live.php?id=422&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=429 tvg-name="Colors Tamil HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Tamil_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Colors Tamil HD
+https://colorsscreen.com/live.php?id=429&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
+https://colorsscreen.com/live.php?id=440&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://14.102.123.50:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", 9x Jhakaas
+https://colorsscreen.com/live.php?id=441&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=442 tvg-name="Zee 24 Taas" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_24_Taas.png" tvg-language="Marathi" tvg-type="News" group-title="News", Zee 24 Taas
+https://colorsscreen.com/live.php?id=442&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=445 tvg-name="Zee Marathi" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Zee Marathi
+https://colorsscreen.com/live.php?id=445&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
+https://colorsscreen.com/live.php?id=463&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=464 tvg-name="24 Ghanta TV" tvg-logo="http://14.102.123.50:5001/jtvimage/24_Ghanta_TV.png" tvg-language="Bengali" tvg-type="News" group-title="News", 24 Ghanta TV
+https://colorsscreen.com/live.php?id=464&extension=.m3u8|Referer=https://colorsscreen.com/
+#EXTINF:-1 tvg-id=465 tvg-name="Jaihind tv" tvg-logo="http://14.102.123.50:5001/jtvimage/Jaihind_tv.p
