@@ -55,6 +55,9 @@ https://la.drmlive.au/tp/zee.php?id=cafehd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee.php?id=anmol
 
+#EXTINF:0 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-501.png" group-title="Sports",Fox Cricket
+https://tinyurl.com/yuscpz7t
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket FHD
 http://b1g.ooo:80/11176/11176/35799
 
@@ -75,9 +78,6 @@ http://b1g.ooo:80/11176/11176/697055
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="Sports",TNT Sports 4 HEVC
 http://b1g.ooo:80/11176/11176/697051
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="AU - Fox Sports 501 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-501.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 501 FHD
-http://b1g.ooo:80/11176/11176/839344
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-name="AU - Fox Sports 502 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fox-Sports-502.png" group-title="SPORTS | Kayo Sports",AU - Fox Sports 502 FHD
 http://b1g.ooo:80/11176/11176/839343
