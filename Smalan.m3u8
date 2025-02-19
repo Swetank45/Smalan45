@@ -734,12 +734,6 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 ###################################### Sports #####################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Cricket.png" group-title="Sports",Jio Cricket
-https://jcevents.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JV_SportsHD15_DIG_MOB.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/JC%20Sports.png" group-title="Sports",Jio Sports
-https://jcevents.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/JC_Sports_24x7_IDC.m3u8
-
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Peacock%20-%20USA.png",Peacock | USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
@@ -760,12 +754,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
-#EXTINF:0 tvg-id="WWE Network.us" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/main/WM%2040%20Night%201.png" group-title="Sports",Roman Reigns & The Rock vs Cody Rhodes & Seth Rollins WrestleMania 40 Night 1
-https://tglinkxxx.anshuman.eu.org/323515/%E2%9D%A4%EF%B8%8FJoin_%C2%BB_%40WWE_GARAGE1%E2%80%88Cody_Rhodes_%26_Seth_Rollins_vs_The_Blo.mp4?hash=21a795
-
-#EXTINF:0 tvg-id="WWE Network.us" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/main/WM%2040%20Night%202.png" group-title="Sports",Roman Reigns vs Cody Rhodes (Universal Championship Match) WrestleMania 40 Night 2
-https://tglinkxxx.anshuman.eu.org/323513/%40abhi_boii.Roman1080p.mp4?hash=55c9ae
-
 #EXTINF:-1 ch-number="824" tvg-id="824 Astro Cricket" tvg-name="" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Astro%20Cricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
@@ -774,8 +762,10 @@ https://sange-astro.palat.workers.dev/2504/default.mpd|Referer=I_Love_OnlyFans
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
-#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/ICC%20TV.png",ICC TV
-https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
+#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Champions%20Trophy.png",Champions Trophy | It's On Prime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:-1 tvg-id="Star4k.in" tvg-name="Star 4K" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%204K.png",Star 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -833,11 +823,7 @@ https://amg01448-samsungin-eurosportin-samsungin-r6thw.amagi.tv/playlist/amg0144
 https://test.ddnetwork.workers.dev/index.mpd?kid=0003d0fbdf31675b39ee3ea8b9f0ce68&ch=https://linear013-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720-120.mpd
 
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="SkySp Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Cricket.png" group-title="Sports", Sky Sports Cricket HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
-https://test.ddnetwork.workers.dev/index.mpd?kid=00056d5c8882917a4463d5b42ba86c31&ch=https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+https://hocdn.news/live/skyscric.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Main%20Event.png", group-title="Sports",Sky Sports Main Event HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -937,34 +923,24 @@ https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Star%20Sports%20Select%202%20HD.png",Star Sports Select 2 HD
 https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png",Sports 18 - 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d86185f50f5952589c280167ee8e45c5:6bff81346539e4bcc9abdb351f1c855e
-https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
+#EXTINF:-1 tvg-id="Sports18.Khel.in" tvg-name="Sports18 Khel" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png", Sports 18 1 HD
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Sports18.Khel.in" tvg-name="Sports18 Khel" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18%20Khel.png", Sports 18 Khel
-https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1725411561~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=ace6191a485fd32392370a51e4d765447f4f224e1f87f37bd3a6e77dd169168b/Sports18_Khel_voot_MOB.m3u8
-
-#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Ten%20Sports%20HD.png" group-title="Sports",Ten Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://port.denver1769.in/j.php?tv=41747
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250122/6368b2c599a520e8777c41db-CHAMPIONS-TROPHY-COMING-SOON_THUM_(1)-1737546728359.webp" group-title="Sports",MY CO | Champions Trophy
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 
 #EXTINF:-0 tvg-id="065" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Ten%20Cricket.png" group-title="Sports", Ten Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
-https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/A%20Sports%20HD.png" group-title="Sports", A Sports HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/PTV%20Sports.png" group-title="Sports",PTV Sports
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+https://hocdn.news/live/ptvpk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=898
