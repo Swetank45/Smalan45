@@ -292,6 +292,9 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
 https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
+#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2025_ICC_Men%27s_Champions_Trophy_Logo.svg/1024px-2025_ICC_Men%27s_Champions_Trophy_Logo.svg.png",Champions Trophy
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/TNT%20Sports%201%20HD.png",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
