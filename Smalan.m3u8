@@ -288,12 +288,10 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Champions%20Trophy.png",Champions Trophy | It's On Prime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ys7k1c1ipx/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2025_ICC_Men%27s_Champions_Trophy_Logo.svg/1024px-2025_ICC_Men%27s_Champions_Trophy_Logo.svg.png",Champions Trophy
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/9zdhmclf6e/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd?|drmScheme=clearkey&drmLicense=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/TNT%20Sports%201%20HD.png",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
