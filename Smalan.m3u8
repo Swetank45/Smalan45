@@ -291,14 +291,25 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ys7k1c1ipx/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d790f0486bf8b693422cfe64d9ed342a:52fd36bde6820b5c07ce4485642394a8
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xqqu5jyoti/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2025_ICC_Men%27s_Champions_Trophy_Logo.svg/1024px-2025_ICC_Men%27s_Champions_Trophy_Logo.svg.png",Champions Trophy
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/9zdhmclf6e/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd?|drmScheme=clearkey&drmLicense=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/78psn6pqf6/out/v1/0f7c17a64a334c8ea6b448d635f71f71/cenc.mpd
 
-#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png",Geo Super
-https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd?|drmScheme=clearkey&drmLicense=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Geo%20Super.png" group-title="Sports",Geo Super
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
+https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
+
+#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",Espn
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/TNT%20Sports%201%20HD.png",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -337,10 +348,10 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 https://hocdn.news/live/skyscric.m3u8
 
 #EXTINF:-1 tvg-id="Sports18.Khel.in" tvg-name="Sports18 Khel" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png", Sports 18 1 HD
-https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
+https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381~acl=%2f*~id=97ff5c734c6f4a3ea96b01cfd44846cc~data=hdntl~hmac=0af3581f161bae67efc6d4aba882ef7a34ac308c204bfe17e7317eb77bd2aafc/index.m3u8
 
-#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250122/6368b2c599a520e8777c41db-CHAMPIONS-TROPHY-COMING-SOON_THUM_(1)-1737546728359.webp" group-title="Sports",MY CO | Champions Trophy
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ytimg.com/vi/qV4_Jj86tiw/maxresdefault.jpg" group-title="Sports", Champions Trophy | Hotstar
+https://sendgbxt.ruscfd.lat/720p.m3u8
 
 #EXTINF:-0 tvg-id="065" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Ten%20Cricket.png" group-title="Sports", Ten Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
