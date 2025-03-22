@@ -287,19 +287,9 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
-#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Champions%20Trophy.png",Champions Trophy | English
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cb6b6283487afe392adcffebf3cd6be:05f4eb67381e0c173954603518ce84c3
-https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tsrm0zirxz/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
-
-#EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2025_ICC_Men%27s_Champions_Trophy_Logo.svg/1024px-2025_ICC_Men%27s_Champions_Trophy_Logo.svg.png",Champions Trophy | Hindi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=553a8e7efc48840b17d03797c023d9b6:05fa313fa73df33f19e0f2d3d047bbaf
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1jii7mxinw/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
+#EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742653340~acl=/*~hmac=4300d188d0b9b22ca845f113a62f2a612416c820d10a2d03a98f2e7328d67b6d
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742658254~acl=/*~hmac=bccdfe0fae9d1d43e50da28c6c3f9b67fbc128578a52b9e084fe550519a34aa8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Geo%20Super.png" group-title="Sports",Geo Super
 #KODIPROP:inputstreamaddon=inputstream.adaptive
