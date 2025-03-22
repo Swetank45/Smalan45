@@ -288,7 +288,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 #EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742653340~acl=/*~hmac=4300d188d0b9b22ca845f113a62f2a612416c820d10a2d03a98f2e7328d67b6d
+https://vkvsd236.okcdn.ru/hls/8304644786830.m3u8/sig/Wkj8-ysqDOQ/expires/1742727504188/srcIp/92.62.121.198/urls/185.226.53.98/clientType/14/srcAg/CHROME_ANDROID/mid/10216378018702/8304644786830/8304644786830_high/index.m3u8
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742658254~acl=/*~hmac=bccdfe0fae9d1d43e50da28c6c3f9b67fbc128578a52b9e084fe550519a34aa8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Geo%20Super.png" group-title="Sports",Geo Super
@@ -299,6 +299,8 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/outpu
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Astro%20Cricket%20HD.png",Astro Cricket
+http://z88.ubtvfans.com/live/rx3/1173/4a322e3c6d5c5e2f3ed5dede47a570ed/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,11 +344,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:0 tvg-id="Star.4K.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%204K.png" group-title="Sports",Star 4K
-https://5hrr.short.gy/stream.m3u8
-https://5hrr.short.gy/star4k2.m3u8
+https://vkvsd77.okcdn.ru/hls/7896338336389.m3u8/sig/ErdnsBbCDOc/expires/1742729097984/srcIp/176.227.240.69/urls/45.136.22.64/clientType/14/srcAg/CHROME_ANDROID/mid/8877922593669/7896338336389_high/index.m3u8
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+http://c1.frsports.info/D22ipl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="SkySp Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sky%20Sports%20Cricket.png" group-title="Sports", Sky Sports Cricket HD
-https://hocdn.news/live/skyscric.m3u8
+http://z88.ubtvfans.com/live/rx3/2786/7fcbe456c092eb9592d19e8d272e9206/index.m3u8
 
 #EXTINF:-1 tvg-id="Sports18.Khel.in" tvg-name="Sports18 Khel" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/repo/Logos/Sports18-1%20HD.png", Sports 18 1 HD
 https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741584938~acl=%2f*~id=59f07ea4bc56ae24020de589a4a45e87~data=hdntl~hmac=b5efb276b0453b6557861c8179f957f4b54b9f457fe69f4c030e7f4cd0f1da9e/index.m3u8
