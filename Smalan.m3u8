@@ -287,9 +287,14 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
+#EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD@DJ-TM.mpd?data=8wvLCq70qDSrLHJNrvTS9kzxDvE19At3j8oNKo_Kcik3dDcrSU408fdODYqMdC2MTE0ry0kts0iJdC6M9MzMcYvKzcmNyM7JScuKcExPy3FzLkw3yDUzcHc2NIgAAA%7CCookie=hdntl=exp=1742807422~acl=*sshd1livetv*~id=2b404a29fcda386fa27ef4496bcbbc7a~data=hdntl~hmac=a534403f98fc923a0e14971cf47bab43fc4b803b725f1be5a73c9df6a42182ff&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
+
+#EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Cricket", Star Sports 1 Hindi HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-HD@DJ-TM.mpd?data=0y7KCy8MSQ0IKLTMtdQvyk9P8QwpKzX2DQnMzSnwdAs3dcv2qkgtC_EJcw4LdDGzMI3SNgvMMDHIqyrx8ysM8_DxSnHMck8sK660DHLx9gvM8ksKyE4qcAQA%7CCookie=hdntl=exp=1742807364~acl=*sshindi*~id=38b902b95fa45e84407a5258ea9fe514~data=hdntl~hmac=a633eab4957383ae72343ff0c682e724cfdf0a7a8975d3f441aff9d18f2d3226&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
+
 #EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742732910~acl=%2F*~data=hdntl~hmac=31a47a33655c93724a7d3b38cdd6bc4d7b6a82a4be02e13da12f502fb7c6f181/Sports18_1_HD_voot_MOB-audio_42842_eng=42800-video=3728000.m3u8
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742658254~acl=/*~hmac=bccdfe0fae9d1d43e50da28c6c3f9b67fbc128578a52b9e084fe550519a34aa8
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742736468~acl=/*~hmac=077e55538282153869f349eb01de9b35c6ada14068448cc77560d3eb2b666f39&by=riyaz
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Geo%20Super.png" group-title="Sports",Geo Super
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -299,8 +304,11 @@ https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/outpu
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-id="Icc.tv" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Astro%20Cricket%20HD.png",Astro Cricket
-http://z88.ubtvfans.com/live/rx3/1173/4a322e3c6d5c5e2f3ed5dede47a570ed/index.m3u8
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://techy-kuldeep-astro.vercel.app/2504/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
