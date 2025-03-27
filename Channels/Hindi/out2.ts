@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-https://livetvbox.live:443/live/rajnikant/rajnikant/98866.ts
+https://1a-1791.com/live/r31jzt5k/slot-77/oat7-b08v_1080p/chunklist_DVR.m3u8
 #EXTINF:10,
-https://livetvbox.live:443/live/rajnikant/rajnikant/98866.ts
+https://1a-1791.com/live/r31jzt5k/slot-77/oat7-b08v_1080p/chunklist_DVR.m3u8
