@@ -355,13 +355,40 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=19896467d408dc81a34ddefd80410a59:dd813fa1b9791bbeb62e2bc04d6c3a8c
-https://aba72ykaaaaaaaamfeij3yx4iyey4.fdb30eb8a5974deea1252630f787072b.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fk4shupy6g/out/v1/d19f6bba494a4848b4073cd60c04a038/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3939a9f4ca47ad3feebd7062939d6621:ddc77a322af12e2e955e0a3b7df76a1e
+https://ABGQJFUAAAAAAAAMJ5XWFJGF673WK.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/osghbqtswt/out/v1/bb336e2e60e744b2a48a6b88b8857a5e/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1 group-title="Sports" tvg-id="Willow Sports" tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Willow%20Sports.png",Willow Sports HD
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="English|KKR vs SRH" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TATA%20IPL%20English.png" group-title="Cricket", TATA IPL | English
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Hindi|KKR vs SRH" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TATA%20IPL%20Hindi.png" group-title="Cricket", TATA IPL | Hindi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Haryanvi|KKR vs SRH" tvg-language="Haryanvi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TATA%20IPL%20Haryanvi.png" group-title="Cricket", TATA IPL | Haryanvi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Punjabi|KKR vs SRH" tvg-language="Punjabi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TATA%20IPL%20Punjabi.png" group-title="Cricket", TATA IPL | Punjabi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Punj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TATA%20IPL%20Bhojpuri.png" group-title="Cricket", TATA IPL | Bhojpuri
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozplLLjquMPceqElDX9Lmp6OonFVrw4GmtGk5FOLeCQ_eC-6Auqh4NgTm&s=10" group-title="Cricket", TATA IPL | Batting Cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://v3img.voot.com//v3Storage/assets/batter_camera_odi_ipl-1710764894788.jpg" group-title="Cricket", TATA IPL | Hero Cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://v3img.voot.com//v3Storage/assets/stump_camera_odi_ipl-1710844278325.jpg" group-title="Cricket", TATA IPL | Stump Cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://v3img.voot.com//v3Storage/assets/bird_s_eye_camera_odi_ipl-1710765267588.jpg" group-title="Cricket", TATA IPL | Field View Cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="Star.4K.in" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%204K.png" group-title="Sports",Star 4K
 http://103.244.145.15/live/3sZlJiQ5Q0/syobYd13Fq/333368.ts?play_token=rUW0mo0Cun&token=ShJcU0BbQQNHDwABBVoHClsJCABfVAVVBVBaAlRSAQcHBQwFUlFaW1cbGBpEF0dcWF1vWQIXXlICUVEBXUgRR0JVRm1aV0EDRwEHDwBbBhsVEkRZC1BGWwBVVgRRVgsHBQYYEENaBxtfGwYNBlMCDg8SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsAAgEFRBlGAl4XDEMXHREIE3l6EB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwoAAwADVRcZ
