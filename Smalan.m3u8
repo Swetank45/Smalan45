@@ -355,8 +355,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3939a9f4ca47ad3feebd7062939d6621:ddc77a322af12e2e955e0a3b7df76a1e
-https://ABGQJFUAAAAAAAAMJ5XWFJGF673WK.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/osghbqtswt/out/v1/bb336e2e60e744b2a48a6b88b8857a5e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=491624049c3c8d870102edd5950f38bd:5b91b2fae92f4f72f0c3b9a3e91822c4
+https://abgqjfuaaaaaaaamcswtescdjn66h.0eee773031d3434d8c65ff46ac9a6070.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wgjpslfpzn/out/v1/e34c66966c61474e81f2a99fc80e876b/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
