@@ -291,12 +291,13 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://jio.yupptv.online/ipllive/livestream/12123fdd94/master.m3u8|Referer=https://jio.yupptv.online/
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Cricket", Star Sports 1 Hindi HD
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1743687579~acl=*sshindi*~id=0fe9d2aa98603d948182a26dec4e6b12~data=hdntl~hmac=a81af2f707af2208d79d89d92df4da2d4cf2ffdae7447abc7b826a7409e353ff&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1744192821~acl=*sshindi*~id=ac805599d5e2799f95d4ad0f6d71f342~data=hdntl~hmac=388348092c9e1814526ecfbb4e6a3629117e956d9c990ec5c6d8bf47b32a17e3&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20HD.png" group-title="Cricket", Star Sports 2 HD
 https://live.incableinternet.com/v/TeGZRJFaxuA.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1744126211~acl=/*~hmac=142e07996288143fef75383bcce7011b078ce0022aee457d90461996bcbc3db7
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/StarzPlay%20Criclife.png" group-title="Cricket", StarzPlay Criclife
 http://port.denver1769.fun/oplx5.php?id=371469
