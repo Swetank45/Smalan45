@@ -285,15 +285,17 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd?|Cookie=hdntl=exp=1744636284~acl=*sshd1livetv*~id=b20f0b6429440c714b52020c75c5220f~data=hdntl~hmac=a5ec710511719b63b0b3ad1adc7852b527a991786bdd790e857f172161cfeea6&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20HD.png" group-title="Cricket", Star Sports 1 HD
 https://jio.yupptv.online/ipllive/livestream/12123fdd94/master.m3u8|Referer=https://jio.yupptv.online/
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Cricket", Star Sports 1 Hindi HD
-
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1744636332~acl=*sshindi*~id=77eac28094afa56db7007713a78459e4~data=hdntl~hmac=0afc43328a84dadb9dc2f5a72522495a504882516f58b859db2adc5b9a91b719&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20HD.png" group-title="Cricket", Star Sports 2 HD
 https://live.incableinternet.com/v/TeGZRJFaxuA.m3u8
+https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1744126211~acl=/*~hmac=142e07996288143fef75383bcce7011b078ce0022aee457d90461996bcbc3db7
@@ -358,8 +360,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=074773428a5137507cd1469312820f66:0e77a625beeda25bec47c5dc991056a6
-https://ABGQJFUAAAAAAAAMIUYZFX7IJXPMK.e996f73eea5542d9ac9737fdd991a15e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb4vitjfln/out/v1/b2bdc667763242e5b0413769d13448b0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=65e8f4035b676dfb23174a2b9d8c40ae:e59d4b971ef7a5c55701a7ce90fed283
+https://abgqjfuaaaaaaaamosdyf2n3hqhx6.0b9106752eed4bac8f490059d12f5fdd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cvqd1gvmsx/out/v1/1c8e3ff6faf749baad7ba81b9a738cc8/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
