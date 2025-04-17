@@ -285,27 +285,26 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
-https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd?|Cookie=hdntl=exp=1744636284~acl=*sshd1livetv*~id=b20f0b6429440c714b52020c75c5220f~data=hdntl~hmac=a5ec710511719b63b0b3ad1adc7852b527a991786bdd790e857f172161cfeea6&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd?|Cookie=hdntl=exp=1744983152~acl=*sshd1livetv*~id=70e64778f616b36821e2c35815db39d8~data=hdntl~hmac=3d824d2fb75fc28f89fcdc29d66387b3588cb0f17864771ee41712bebccd5f27&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20HD.png" group-title="Cricket", Star Sports 1 HD
 https://jio.yupptv.online/ipllive/livestream/12123fdd94/master.m3u8|Referer=https://jio.yupptv.online/
+https://www.tbn24.com/api/video/4028_0.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Cricket", Star Sports 1 Hindi HD
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1744636332~acl=*sshindi*~id=77eac28094afa56db7007713a78459e4~data=hdntl~hmac=0afc43328a84dadb9dc2f5a72522495a504882516f58b859db2adc5b9a91b719&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1744983115~acl=*sshindi*~id=82baa258ee9999d9379b4cd912db2f03~data=hdntl~hmac=1c19941e8ace1195b8daeee3ccc656abbc86a55f136b5bacc01e53f9a175313a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20HD.png" group-title="Cricket", Star Sports 2 HD
 https://live.incableinternet.com/v/TeGZRJFaxuA.m3u8
-https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20Hindi%20HD.png" group-title="Cricket", Star Sports 2 Hindi HD
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1744126211~acl=/*~hmac=142e07996288143fef75383bcce7011b078ce0022aee457d90461996bcbc3db7
+https://live-ak.vimeocdn.com/exp=1744900527~acl=%2F24d6f6e9-5f3b-45e1-8d4c-5361bc51f77c_fmp4%2F%2A~hmac=221e6e555cc9bb466b7d51e7cd498bcfdea21006255494f0e18f0cb4d92a57ef/24d6f6e9-5f3b-45e1-8d4c-5361bc51f77c_fmp4/hls.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/StarzPlay%20Criclife.png" group-title="Cricket", StarzPlay Criclife
-http://port.denver1769.fun/oplx5.php?id=371469
+
 
 #EXTINF:-1 tvg-id="Sports18 1 HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Cricket", T Sports
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://www.tbn24.com/api/video/4031_0.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Cricket HD" tvg-name="Fox Sports Cricket" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Fox%20Sports%20501.png" group-title="Sports", Fox Sports 501
 https://vkvsd251.okcdn.ru/cmaf/8174863256108/sig/BxYlgbYeMHU/srcIp/172.69.178.85/urls/45.136.20.85/expires/1744407523175/clientType/13/srcAg/CHROME/fromCache/1/mid/9467564993324/id/8174863256108/get/hls_9467564993324.M8H9Ktvtoeg.m3u8
@@ -360,8 +359,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=65e8f4035b676dfb23174a2b9d8c40ae:e59d4b971ef7a5c55701a7ce90fed283
-https://abgqjfuaaaaaaaamosdyf2n3hqhx6.0b9106752eed4bac8f490059d12f5fdd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cvqd1gvmsx/out/v1/1c8e3ff6faf749baad7ba81b9a738cc8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c5baabaaf817abc314702e6fc615571f:35f6b737c5b2c3d657a37b2bff894916
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prauteb8nh/out/v1/a234d59d66c5444dbd0f13abfdc1038a/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
