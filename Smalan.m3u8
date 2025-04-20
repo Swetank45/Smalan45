@@ -358,8 +358,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3737d4ac5ecfbd5c61ff76c0a7ff9e1c:96cdbb20b695a7ea5bb6ef397a5115cb
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tbloioh8ln/out/v1/d9f189bb24ab49979e200fc8741ae36e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=41cc604b8c232e69e850cc76fc7c5da1:4c6593f619b10e9c00b446ffcb1e53af
+https://ABGQJFUAAAAAAAAMJG47XBR24JNK7.5585d58ad0ad47ec9147be5b551e6277.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g7lle69upt/out/v1/e67fdb7dbb6c421d9aa016def25b6ea8/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
