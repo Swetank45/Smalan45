@@ -285,19 +285,19 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="IN1300001NN" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/repo/Logos/Cricket%20Gold.png" group-title="Sports",Cricket Gold
-https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd?|Cookie=hdntl=exp=1744983152~acl=*sshd1livetv*~id=70e64778f616b36821e2c35815db39d8~data=hdntl~hmac=3d824d2fb75fc28f89fcdc29d66387b3588cb0f17864771ee41712bebccd5f27&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|cookie=hdntl=exp=1745830767~acl=*sshindi*~id=7128a4f5b44782e8aa0e903dc2b74501~data=hdntl~hmac=43fa25b0d8b328b0de767cda1ca6894127713f10ad263cd79183767c7734cc66&User-agent=jass/5.0&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20HD.png" group-title="Cricket", Star Sports 1 HD
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1745586674~acl=*sshindi*~id=7ff14567626a19f9da4ccf860a56a88d~data=hdntl~hmac=9596c9c67cc0ff85f86dba0d20208783aa252fa6f68959c083196381775f20f0&User-agent=@Denver1769&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd?|cookie=hdntl=exp=1745830844~acl=*sshd1livetv*~id=1f5b82288151262051679ef2ab9a4ff8~data=hdntl~hmac=8cc699024afe19c312953e95eedcbd82d7e620cb8adc21ba71dbe84d99c748d3&User-agent=jass/5.0&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD Hindi" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%201%20Hindi%20HD.png" group-title="Cricket", Star Sports 1 Hindi HD
 https://www.tbn24.com/api/video/4028_0.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/Star%20Sports%202%20HD.png" group-title="Cricket", Star Sports 2 HD
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1370.m3u8
+https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.mpd?|cookie=hdntl=exp=1745831211~acl=*sshd2livetv*~id=e0c356703b6267187b96313fd4ab0c3f~data=hdntl~hmac=7d576ed5a1f3bdb27b40da8449463bed2a8397a075a04b096e9b9ca6785346d0&User-agent=jass/5.0&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star%20Sports%202%20Hindi%20HD_Transparent_e52b47df-25a0-4c06-a422-ae6e75100f06.png" group-title="Cricket", Star Sports 2 Hindi HD
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/502.m3u8
+https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1745758485~acl=/*~hmac=9fe920b5189193fd4775884ef945ccc5eb8e3b5ec4bc3261ba3b320140b98c18
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD Hindi" tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Cricket", Willow HD
 https://www.tbn24.com/api/video/4026_0.m3u8
@@ -358,8 +358,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34d1828d32b613d0be2584f2edc8f9e8:0f99b21c26ed7cbcd650e8e407e6fb07
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cccadc22dd01226f78f11ad5de50d388:fe9a837a99ba4eb526cbb55b3ef169ca
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0dg4by6sxy/out/v1/e9b7150196154933926b05211c41f662/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
