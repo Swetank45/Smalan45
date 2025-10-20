@@ -74,6 +74,54 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://bks03.starhubgo.com/bpk-token/2aa@lukacqnwkbiawlmtaw5frvaealcvcqamlugingca/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
 
+#EXTINF:-1 group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%201.png", TNT Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%202.png", TNT Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%203.png", TNT Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta" tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%204.png", TNT Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%201%20HD.png" group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", TNT Sports 1 1080p50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports1
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%202%20HD.png" group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", TNT Sports 2 1080p50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports2
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%203%20HD.png" group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", TNT Sports 3 1080p50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports3
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Swetank45/Smalan45/refs/heads/repo/Logos/TNT%20Sports%204%20HD.png" group-title="Sports" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", TNT Sports 4 1080p50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
